@@ -66,7 +66,7 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : Person
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "sxm.png"
+  name             : #"sxm.png"
   avatar           : "sxm.png"
   bio              : "跨越世界梦不成，起看寥落晨星"
   location         : "Kroean Pusan"
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "https://steamcommunity.com/profiles/76561198293308055/home/"
   tumblr           :
   twitter          : "https://twitter.com/ZHAOGUOBIN1"
   vine             :
