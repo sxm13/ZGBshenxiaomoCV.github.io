@@ -50,6 +50,18 @@ Skills
   * 英语
   * 韩语
 * python
+* origin
+* CAD
+* Matlab
+* RASPA
+* cp2k
+* Lammps
+* Experiment
+  * 3 flex
+  * PCT
+  * Make MOFs
+  * charge and discharge
+* ...
 
 Publications
 ======
