@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "赵国斌 / 墨染回首"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,40 +80,40 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "沈小墨"
+  avatar           : "sxm.png"
+  bio              : "跨越世界梦不成，起看寥落晨星"
+  location         : "http://www.pusan.ac.kr/chi/Main.do"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : "https://www.scopus.com/authid/detail.uri?authorId=57213424571"
+  googlescholar    : 
+  email            : "sxmzhaogb@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/zhao.guobin.3"
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/sxm13"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/xiao_mo_shen/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/ZHAOGUOBIN1"
   vine             :
-  weibo            :
+  weibo            : "https://weibo.com/p/1005055273370319/home?from=page_100505_profile&wvr=6&mod=data&is_all=1#place"
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/?reload=9&feature=youtu.be"
   wikipedia        :
 
 
