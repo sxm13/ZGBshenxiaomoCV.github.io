@@ -1,6 +1,6 @@
 ---
 title: "迷惑之垫片"
-excerpt: "合成MOFs，垫片失踪，十分迷惑<br/><img src='/images/sxm.png'>"
+excerpt: "合成MOFs，垫片失踪，十分迷惑<br/><img src='/images/dianpian.png'>"
 collection: portfolio
 ---
 
