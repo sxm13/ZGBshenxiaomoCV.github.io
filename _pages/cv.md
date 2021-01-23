@@ -11,21 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Zhejiang Zhoushan. Zhejiang Ocean University. Marine Engineering(Ship Building and Repairi). 2014-2018.
+* M.S. in Fujian Xiamen. Jimei University. Naval Architecture and Ocean Engineering. 2018-2020.
+* Ph.D in Korean Pusan. Pusan National University. School of chemical engineering. 2020-Now.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2014: 发传单
+  * 绿城房地产
+  * Duties included: 劳务
+  * Boss: Forgotten
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2015: 餐饮服务员
+  * 南洋国际酒店
+  * Duties included: 劳务派遣
+  * Boss: Forgotten
+  
+* Summer 2016: 家庭教师
+  * 海文教育
+  * Duties included: 教书育人
+  * Boss: Forgotten
+ 
+* Summer 2017: 大学生实习
+  * 海晨船厂
+  * Duties included: 参观学习
+  * Boss: Forgotten
+  
+* Summer 2018: 管家
+  * 朱家尖民宿
+  * Duties included: 劳务
+  * Boss: Forgotten
   
 Skills
 ======
