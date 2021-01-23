@@ -63,6 +63,11 @@ Skills
   * charge and discharge
 * ...
 
+Details
+======
+详细内容[个人网页](https://sxm13.github.io/zhaoguobin.github.io/ "CV")。        
+详细内容[知乎](https://www.zhihu.com/people/mo-ran-hui-shou-16-68-98 "CV")。
+
 Publications
 ======
   <ul>{% for post in site.publications %}
