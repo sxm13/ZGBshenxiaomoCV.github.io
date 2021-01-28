@@ -1,10 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Site Settings
 locale                   : "en-US"
 title                    : "赵国斌 / 墨染回首"
@@ -12,32 +5,32 @@ title_separator          : "-"
 name                     : &name "沈小墨"
 description              : &description "CV website"
 url                      : https://sxm13.github.io/ZGBshenxiaomoCV.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" 
 repository               : "https://sxm13.github.io/ZGBshenxiaomoCV.github.io/"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "sxm.png"
-breadcrumbs              : false # true, false (default)
+teaser                   :  
+breadcrumbs              : false #
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+read_more                : "disabled" 
+talkmap_link             : false #
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : 
   disqus:
     shortname            :
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : 
   facebook:
     appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    num_posts            : 
+    colorscheme          : 
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
+  allowedFields          : #['name', 'email', 'url', 'message']
+  branch                 : "gh-pages" 
+  commitMessage          : #"New comment."
+  filename               : #comment-{@timestamp}
   format                 : "yml"
   moderation             : true
-  path                   : "_data/comments/{options.slug}"
+  path                   : #"_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
@@ -45,9 +38,9 @@ staticman:
     date:
       type               : "date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : #"iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+  path                   : 
 
 # SEO Related
 google_site_verification :
@@ -62,13 +55,11 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
+og_image                 :  
 social:
   type                   : Person
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  name                   : 
+  links: 
 
 
 # Analytics
