@@ -39,7 +39,7 @@ redirect_from:
 * 如果你不懂晶体对称性[symmetry](http://xrayweb.chem.ou.edu/notes/symmetry.html#crystal "symmetry")。       
 * 如果你在学习机器学习[Kaggle](https://www.kaggle.com/ "ML")           
   * 谷歌机器学习---因为我在国外，不确定国内的同胞是否可以进得去[googleML](https://developers.google.com/machine-learning/crash-course "googleML")       
-  * 斯坦福机器学习公开课[stanfoed](https://www.coursera.org/learn/machine-learning? "ML")
+  * 斯坦福机器学习公开课[stanford](https://www.coursera.org/learn/machine-learning? "ML")
 * 华东师范大学Jinzhe Zeng化学资料[ZJZ](https://njzjz.win/2019/03/04/ecnuchemistry/menu/ "ZJZ")         
 * 清华刘博的博客[刘锦程](http://blog.wangruixing.cn/ "LJC")
 * python 画图入门[matplotlib](https://blog.csdn.net/Datawhale/article/details/109302260 "FIGTURE")
