@@ -15,7 +15,8 @@ redirect_from:
 * 多孔材料表征软件[zeo++](http://www.zeoplusplus.org/ "zeo++") 及python计算模块[pygaps](https://pygaps.readthedocs.io/en/master/ "pygaps")。            
 * 电荷计算[DDEC](https://sourceforge.net/projects/ddec/ "DDEC")。              
 * 吸附与分离模型拟合模块[pyIAST](https://github.com/CorySimon/pyIAST/ "pyIAST")。                      
-* 可视化软件[VMD](https://www.ks.uiuc.edu/Research/vmd/ "VMD")。                     
+* 可视化软件[VMD](https://www.ks.uiuc.edu/Research/vmd/ "VMD")。      
+* disorder[disorder](https://github.com/jichunlian/disorder "disorder")      
 
 ## 数据库链接          
 
@@ -30,7 +31,8 @@ redirect_from:
   * [xtb](https://xtb-docs.readthedocs.io/en/latest/contents.html "xtb")。                  
   * [cclib](https://cclib.github.io/ "cclib")。  
   * [pymatflow](https://pymatflow.readthedocs.io/en/latest/index.html "pymatflow")
-* SCI分区[查询](http://www.letpub.com.cn/index.php?page=journalapp&view=search "SCI")
+* SCI分区[查询](http://www.letpub.com.cn/index.php?page=journalapp&view=search "SCI")     
+* SCI论文下载[scihub](https://tool.yovisun.com/scihub/ "scihub")       
   
 ## 学习资料网址          
 
@@ -41,33 +43,25 @@ redirect_from:
 * 华东师范大学Jinzhe Zeng化学资料[ZJZ](https://njzjz.win/2019/03/04/ecnuchemistry/menu/ "ZJZ")         
 * 清华刘博的博客[刘锦程](http://blog.wangruixing.cn/ "LJC")
 * python 画图入门[matplotlib](https://blog.csdn.net/Datawhale/article/details/109302260 "FIGTURE")
-* 
+* 爱课程[MOOC](https://www.icourse163.org/university/icourse/#/c "MOOC")      
+* 小木虫[muchong](http://muchong.com/ "MUCHONG")        
+* 计算模拟之道公众号知乎[jsmnr](https://www.zhihu.com/people/jsmnzd/posts "jsmnr")       
 * 大师兄的VASP学习[VASP](https://www.bigbrosci.com/ "dashixion")        
 * 如果你也是研究生，如果你在为论文的公式/参考文献格式而烦恼[LaTeX](https://www.tablesgenerator.com/latex_tables "LaTex")        
 * cp2k入门[小白](https://www.cnblogs.com/Shine-JK/p/10988556.html "xiaobai")       
-* 
 
 
-## Tables
+## 希望我们每个人都有个list             
 
-### Table 1
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
+| PLAN    | PROBLEM | PROCESS |
 |:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
+| RASPA   | NO      | FINISH  |
+| LAMMPS  | NO      | FINISH  |
 |-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
+| MS      | NO      | FINISH  |
+| CP2K    | ENERGY  |STUDYING |
 |=============================|
-| Foot1   | Foot2   | Foot3   |
+| ML      | CODE    |STUDYING |
 
 
