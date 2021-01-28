@@ -1,0 +1,17 @@
+! input file with pressure data
+pressure_bin_const_y.dat
+! output file with fugacity data
+fugacity_bin.dat
+! number of fluid species
+2
+! name of fluid species (chemical formula, not music name!)
+CH4
+! name of fluid species (chemical formula, not music name!)
+C2H6
+! temperature
+298. 
+! constant pressure (1) or constant mole fraction (2)
+2
+! p_total in kPa or y(1) 
+0.2
+
