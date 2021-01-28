@@ -4,15 +4,15 @@ title                    : "赵国斌 / 墨染回首"
 title_separator          : "-"
 name                     : &name "沈小墨"
 description              : &description "CV website"
-url                      : https://sxm13.github.io/ZGBshenxiaomoCV.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sxm13.github.io/ZGBshenxiaomoCV.github.io/
 baseurl                  : "" 
 repository               : "https://sxm13.github.io/ZGBshenxiaomoCV.github.io/"
 teaser                   :  
-breadcrumbs              : false #
+breadcrumbs              : false 
 words_per_minute         : 160
-future                   : true
+future                   : #true
 read_more                : "disabled" 
-talkmap_link             : false #
+talkmap_link             : false 
 comments:
   provider               : 
   disqus:
