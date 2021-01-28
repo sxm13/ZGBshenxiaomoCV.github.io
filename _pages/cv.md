@@ -49,7 +49,9 @@ Skills
   * 普通话
   * 英语
   * 韩语
-* python
+* 机器学习
+  * python
+  * keras
 * origin
 * CAD
 * Matlab
@@ -62,11 +64,19 @@ Skills
   * Make MOFs
   * charge and discharge
 * ...
-
+         
+研究领域     
+======
+ 蒙特卡洛                  
+ 分子动力学                        
+ 密度泛函计算              
+ 机器学习-多孔材料                     
+ 
 Details
 ======
-详细内容[个人网页](https://sxm13.github.io/zhaoguobin.github.io/ "CV")。        
-详细内容[知乎](https://www.zhihu.com/people/mo-ran-hui-shou-16-68-98 "CV")。
+另一个[个人网页](https://sxm13.github.io/zhaoguobin.github.io/ "CV")。        
+知乎[知乎](https://www.zhihu.com/people/mo-ran-hui-shou-16-68-98 "CV")。
+Kakaotalk: Sxmzgb20200827        
 
 Publications
 ======
@@ -88,4 +98,12 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 1
+### 郑青榕教授课题组网站             
+
+福建省船舶与海洋工程实验室[新能源组](http://mei.jmu.edu.cn/info/1070/1126.htm "鄙人硕士就读的科研组")。        
+
+* 2
+### Chung Yongchul G.教授课题组网站           
+
+计算材料与化学过程实验室[Lab of CMCP](https://cmcp-group.github.io/ "目前鄙人就读的科研组")。
