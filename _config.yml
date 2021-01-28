@@ -5,7 +5,7 @@ title_separator          : "-"
 name                     : &name "沈小墨"
 description              : &description "CV website"
 url                      : https://sxm13.github.io/ZGBshenxiaomoCV.github.io/
-baseurl                  : "https://sxm13.github.io/ZGBshenxiaomoCV.github.io/" 
+baseurl                  : "" 
 repository               : "https://sxm13.github.io/ZGBshenxiaomoCV.github.io/"
 teaser                   :  
 breadcrumbs              : false 
