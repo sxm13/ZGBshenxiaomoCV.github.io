@@ -25,11 +25,11 @@ comments:
     colorscheme          : 
 staticman:
   allowedFields          : #['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" 
+  branch                 : #"gh-pages" 
   commitMessage          : #"New comment."
   filename               : #comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
+  format                 : #"yml"
+  moderation             :# true
   path                   : #"_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
