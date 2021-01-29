@@ -1,6 +1,6 @@
 ---
 title: "欢乐时光"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "图片<br/><img src='/images/500x300.png'>"
 collection: 劳逸结合吖
 ---
 
