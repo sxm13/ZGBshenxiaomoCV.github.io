@@ -10,7 +10,7 @@ repository               : "https://sxm13.github.io/ZGBshenxiaomoCV.github.io/"
 teaser                   :  
 breadcrumbs              : false 
 words_per_minute         : 160
-future                   : #true
+future                   : true
 read_more                : "disabled" 
 talkmap_link             : false 
 comments:
@@ -24,13 +24,13 @@ comments:
     num_posts            : 
     colorscheme          : 
 staticman:
-  allowedFields          : #['name', 'email', 'url', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" 
-  commitMessage          : #"New comment."
-  filename               : #comment-{@timestamp}
-  format                 : #"yml"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
   moderation             : true
-  path                   : #"_data/comments/{options.slug}"
+  path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
@@ -38,7 +38,7 @@ staticman:
     date:
       type               : "date"
       options:
-        format           : #"iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : 
 
