@@ -62,6 +62,7 @@ redirect_from:
 * 大师兄的VASP学习[VASP](https://www.bigbrosci.com/ "dashixion")        
 * 如果你也是研究生，如果你在为论文的公式/参考文献格式而烦恼[LaTeX](https://www.tablesgenerator.com/latex_tables "LaTex")        
 * cp2k入门[小白](https://www.cnblogs.com/Shine-JK/p/10988556.html "xiaobai")       
+* cp2k知乎栏[蘭一](https://www.zhihu.com/people/lan-yi-27/posts?page=1 "cp2k")
 
 
 ## 希望我们每个人都有个list             
