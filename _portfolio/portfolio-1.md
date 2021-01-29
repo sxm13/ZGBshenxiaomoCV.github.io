@@ -1,6 +1,6 @@
 ---
 title: "做自己喜欢的事"
-excerpt: "你得到你想要的吗<br/><img src='/images/dianpian.png'>"
+excerpt: [你得到你想要的吗](/images/dianpian.png "垫片")
 collection: portfolio
 ---
 
