@@ -1,6 +1,6 @@
 ---
 title: "欢乐时光"
-excerpt: "图片<br/><img src='images/bio-photo-2.jpg'>"
+excerpt: "图片<br/><img src='images/sxm.png'>"
 collection: 劳逸结合吖
 ---
 
