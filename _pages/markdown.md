@@ -20,7 +20,8 @@ redirect_from:
 * 吸附与分离模型拟合模块[pyIAST](https://github.com/CorySimon/pyIAST/ "pyIAST")。            
   * [IAST++](https://sangwon91.github.io/IASTpp/ "iast")      
 * 可视化软件[VMD](https://www.ks.uiuc.edu/Research/vmd/ "VMD")。      
-  * [VESTA](https://jp-minerals.org/vesta/en/ "VESTA")       
+  * [VESTA](https://jp-minerals.org/vesta/en/ "VESTA")  
+  * [iRASPA](https://iraspa.org/ "iRASPA")
 * disorder[disorder](https://github.com/jichunlian/disorder "disorder")      
 * 逸度换算[f](https://github.com/sxm13/ZGBshenxiaomoCV.github.io/tree/main/files/fugacity "f")             
 * MOF[explorer](http://mausdin.github.io/MOFsite/mofPage.html ”MP“)     
