@@ -23,7 +23,7 @@ redirect_from:
   * VESTA[https://jp-minerals.org/vesta/en/ "VESTA")       
 * disorder[disorder](https://github.com/jichunlian/disorder "disorder")      
 * 逸度换算[f](https://github.com/sxm13/ZGBshenxiaomoCV.github.io/tree/main/files/fugacity "f")             
-* MOF[explorer](http://mausdin.github.io/MOFsite/mofPage.html ”MP“）     
+* MOF[explorer](http://mausdin.github.io/MOFsite/mofPage ”MP“)     
 * [open babel](https://github.com/openbabel/openbabel/releases/tag/openbabel-2-4-0 "Open Babel")        
 * 第一性原理的MOF力场[FF](https://github.com/molmod/QuickFF "MOFFF")     
 
