@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
+title: "欢乐时光"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+collection: 劳逸结合吖
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+哪有什么作品，只想分享快乐，分享音乐、视频、照片以及游戏等。         
