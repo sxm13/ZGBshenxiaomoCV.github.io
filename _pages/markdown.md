@@ -64,7 +64,8 @@ redirect_from:
 * 如果你也是研究生，如果你在为论文的公式/参考文献格式而烦恼[LaTeX](https://www.tablesgenerator.com/latex_tables "LaTex")        
 * cp2k入门[小白](https://www.cnblogs.com/Shine-JK/p/10988556.html "xiaobai")       
 * cp2k知乎栏[蘭一](https://www.zhihu.com/people/lan-yi-27/posts?page=1 "cp2k")        
-* 皮皮[图书馆](http://www.xttsg.com/ "pipi")              
+* 皮皮[图书馆](http://www.xttsg.com/ "pipi")             
+* 计算化学[公社](http://bbs.keinsci.com/forum.php "keyin")                   
 
 
 ## 希望我们每个人都有个list             
