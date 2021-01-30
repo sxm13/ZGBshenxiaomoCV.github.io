@@ -74,8 +74,9 @@ Skills
  
 Details
 ======       
-知乎[知乎](https://www.zhihu.com/people/mo-ran-hui-shou-16-68-98 "CV")。
-Kakaotalk: Sxmzgb20200827        
+知乎[知乎](https://www.zhihu.com/people/mo-ran-hui-shou-16-68-98 "CV")                         
+Kakaotalk: Sxmzgb20200827         
+百度[网盘](https://pan.baidu.com/disk/home?#/all?vmode=list&path=%2F "pan")                                
 
 Publications
 ======
