@@ -73,8 +73,7 @@ Skills
  机器学习-多孔材料                     
  
 Details
-======
-另一个[个人网页](https://sxm13.github.io/zhaoguobin.github.io/ "CV")。        
+======       
 知乎[知乎](https://www.zhihu.com/people/mo-ran-hui-shou-16-68-98 "CV")。
 Kakaotalk: Sxmzgb20200827        
 
