@@ -65,7 +65,8 @@ redirect_from:
 * cp2k入门[小白](https://www.cnblogs.com/Shine-JK/p/10988556.html "xiaobai")       
 * cp2k知乎栏[蘭一](https://www.zhihu.com/people/lan-yi-27/posts?page=1 "cp2k")        
 * 皮皮[图书馆](http://www.xttsg.com/ "pipi")             
-* 计算化学[公社](http://bbs.keinsci.com/forum.php "keyin")及[卢天老师](http://www.keinsci.com/members/Tian_Lu.shtml "lutian")                                  
+* 计算化学[公社](http://bbs.keinsci.com/forum.php "keyin")及[卢天老师](http://www.keinsci.com/members/Tian_Lu.shtml "lutian")          
+* cp2k[google论坛](https://groups.google.com/g/cp2k "cp2k")           
 
 
 ## 希望我们每个人都有个list             
