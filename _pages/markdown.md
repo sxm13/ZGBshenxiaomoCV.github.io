@@ -10,7 +10,7 @@ redirect_from:
 ## 计算软件链接          
 
 * python
-  * [Aoaconda](https://www.anaconda.com/ "python)                         
+  * [Aoaconda](https://www.anaconda.com/ "python")                         
   * [pycharm](https://www.jetbrains.com/pycharm/ "python") 
   * [IDLE](https://www.python.org/ "python")                           
   * [git](https://git-scm.com/ "git")                        
