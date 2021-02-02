@@ -58,7 +58,8 @@ redirect_from:
 * NIST吸附数据[NIST Data](https://adsorption.nist.gov/index.php#home "Adsorption data")                       
 * 无机化合物材料库[Materials Project](https://materialsproject.org/ "Materials project")                   
 * CCDC剑桥晶体库[CCDC](https://www.ccdc.cam.ac.uk/ "CCDC")                   
-* 神经网络DDEC电荷[MPNN](https://github.com/SimonEnsemble/mpn_charges "MPNN")                  
+* 神经网络DDEC电荷[MPNN](https://github.com/SimonEnsemble/mpn_charges "MPNN")  
+* 英文[books download](https://z-lib.org/ "book")                     
 * 论文相关      
   * SCI分区[查询](http://www.letpub.com.cn/index.php?page=journalapp&view=search "SCI")     
   * SCI论文下载[scihub](https://tool.yovisun.com/scihub/ "scihub")   
@@ -67,10 +68,12 @@ redirect_from:
 ## 学习资料网址          
        
 * 如果你在学习机器学习
-  * [Kaggle](https://www.kaggle.com/ "ML")           
+  * [Kaggle](https://www.kaggle.com/ "ML")
+  * [weka](https://waikato.github.io/weka-wiki/ "weka")                       
   * 谷歌机器学习---因为我在国外，不确定国内的同胞是否可以进得去[googleML](https://developers.google.com/machine-learning/crash-course "googleML")       
   * 斯坦福机器学习公开课[stanford](https://www.coursera.org/learn/machine-learning? "ML")             
-  * [scikit-learn](https://scikit-learn.org/stable/index.html "DL")         
+  * [scikit-learn](https://scikit-learn.org/stable/index.html "DL") 
+  * adsorption[ML](https://ann20-aiche.ipostersessions.com/default.aspx?s=77-31-78-3F-38-F6-7E-22-83-07-0E-35-DF-70-41-E6 "ML")
   * 华东师范大学Jinzhe Zeng化学资料[ZJZ](https://njzjz.win/2019/03/04/ecnuchemistry/menu/ "ZJZ")                                                  
 * python             
   * python 画图入门[matplotlib](https://blog.csdn.net/Datawhale/article/details/109302260 "FIGTURE")                             
