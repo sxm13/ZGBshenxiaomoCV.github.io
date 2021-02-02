@@ -54,7 +54,7 @@ redirect_from:
   * 斯坦福机器学习公开课[stanford](https://www.coursera.org/learn/machine-learning? "ML")             
   * [scikit-learn](https://scikit-learn.org/stable/index.html "DL")         
 * 华东师范大学Jinzhe Zeng化学资料[ZJZ](https://njzjz.win/2019/03/04/ecnuchemistry/menu/ "ZJZ")         
-* 清华刘博的博客[刘锦程](http://blog.wangruixing.cn/ "LJC")
+* 清华刘博的博客[刘锦程](http://blog.wangruixing.cn/ "LJC")及[b站视频](https://space.bilibili.com/45550176/ "bilibili")                               
 * python 画图入门[matplotlib](https://blog.csdn.net/Datawhale/article/details/109302260 "FIGTURE")                     
   * [官方](https://github.com/matplotlib/cheatsheets "pf")           
 * 爱课程[MOOC](https://www.icourse163.org/university/icourse/#/c "MOOC")      
@@ -67,7 +67,9 @@ redirect_from:
 * 皮皮[图书馆](http://www.xttsg.com/ "pipi")             
 * 计算化学[公社](http://bbs.keinsci.com/forum.php "keyin")及[卢天老师](http://www.keinsci.com/members/Tian_Lu.shtml "lutian")          
 * cp2k[google论坛](https://groups.google.com/g/cp2k "cp2k")           
-
+* b站[Schnappi-1的cp2k教程](https://space.bilibili.com/547603845/ "cp2k")    
+* 高斯[b站Underline](https://space.bilibili.com/392348884/ "gassiuan")                                  
+* ASPEN-HYSYS[bilibili](https://space.bilibili.com/232674132/ "bilibili")                                
 
 ## 希望我们每个人都有个list             
 
