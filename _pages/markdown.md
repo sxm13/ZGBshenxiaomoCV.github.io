@@ -9,6 +9,13 @@ redirect_from:
 
 ## 计算软件链接          
 
+* python
+  * [Aoaconda](https://www.anaconda.com/ "python)                         
+  * [pycharm](https://www.jetbrains.com/pycharm/ "python") 
+  * [IDLE](https://www.python.org/ "python")                           
+  * [git](https://git-scm.com/ "git")                        
+  * [pip](https://pypi.org/project/pip/ "pip")
+  * [dooker](https://www.docker.com/ "dooker")                            
 * GCMC吸附分离计算程序
   * [RASPA2](https://github.com/iRASPA/RASPA2 "Make by David")。             
 * 分子动力学
