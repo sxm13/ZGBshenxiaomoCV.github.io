@@ -36,7 +36,8 @@ redirect_from:
 * 可视化软件
   * [VMD](https://www.ks.uiuc.edu/Research/vmd/ "VMD")。      
   * [VESTA](https://jp-minerals.org/vesta/en/ "VESTA")  
-  * [iRASPA](https://iraspa.org/ "iRASPA")    
+  * [iRASPA](https://iraspa.org/ "iRASPA")                  
+  * [vislt](https://wci.llnl.gov/simulation/computer-codes/visit/executables "vislt")                  
 * Workflow Softwares     
   * [ASE](https://wiki.fysik.dtu.dk/ase/index.html "ase")。                  
   * [pymatgen](https://pymatgen.org/ "pymatgen")。                  
@@ -44,10 +45,15 @@ redirect_from:
   * [cclib](https://cclib.github.io/ "cclib")。  
   * [pymatflow](https://pymatflow.readthedocs.io/en/latest/index.html "pymatflow")
 * MOF力场
-  * 第一性原理[FF](https://github.com/molmod/QuickFF "MOFFF")     
+  * 第一性原理[FF](https://github.com/molmod/QuickFF "MOFFF") 
+* 阅读器              
+  * [PDF](https://www.zhengbanxianmian.com/iStylePDF.html "pdf")                            
+  * [CAJ](https://cajviewer.cnki.net/ "CAJ")                      
+  * [STDU](https://stdu-viewer.en.softonic.com/ "STDU")                     
 * disorder[disorder](https://github.com/jichunlian/disorder "disorder")       
 * 逸度换算[f](https://github.com/sxm13/ZGBshenxiaomoCV.github.io/tree/main/files/fugacity "f")                         
-* [open babel](https://github.com/openbabel/openbabel/releases/tag/openbabel-2-4-0 "Open Babel")        
+* [open babel](https://github.com/openbabel/openbabel/releases/tag/openbabel-2-4-0 "Open Babel")      
+* 远程控制电脑[Teamviewer](https://www.teamviewer.cn/cn/ "teamviewer")                         
 
 ## 数据库链接          
 
