@@ -27,7 +27,7 @@ redirect_from:
   * [QE](https://www.quantum-espresso.org/ "QE")及input[qeinput](https://www.materialscloud.org/work/tools/qeinputgenerator "qi")            
 * 多孔材料表征软件
   * [zeo++](http://www.zeoplusplus.org/ "zeo++") 及python计算模块[pygaps](https://pygaps.readthedocs.io/en/master/ "pygaps")。   
-  * MOF[explorer](http://mausdin.github.io/MOFsite/mofPage.html ”MP“) 
+  * MOF[explorer](http://mausdin.github.io/MOFsite/mofPage.html "MP")                               
 * 电荷计算
   * [DDEC](https://sourceforge.net/projects/ddec/ "DDEC")。              
 * 吸附与分离模型拟合
