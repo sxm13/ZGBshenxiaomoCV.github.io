@@ -12,7 +12,8 @@ redirect_from:
 * python
   * [Aoaconda](https://www.anaconda.com/ "python")                         
   * [pycharm](https://www.jetbrains.com/pycharm/ "python") 
-  * [IDLE](https://www.python.org/ "python")                           
+  * [IDLE](https://www.python.org/ "python")   
+  * [pyenv](https://github.com/pyenv/pyenv "pyenv")                                      
   * [git](https://git-scm.com/ "git")                        
   * [pip](https://pypi.org/project/pip/ "pip")
   * [dooker](https://www.docker.com/ "dooker")                            
