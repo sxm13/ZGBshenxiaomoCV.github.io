@@ -60,7 +60,8 @@ redirect_from:
 
 * coRE MOF database
   * [MOFs 晶体库](https://zenodo.org/record/3677685#.X8uDkrniuUl "2019coRE MOF")。                          
-  * [QMOF](https://github.com/arosen93/QMOF "QMOF")      
+  * [QMOF](https://github.com/arosen93/QMOF "QMOF")
+  * [scieMOF](https://globalscience.berkeley.edu/database "MOF")                   
   * 拓扑MOF材料生成[tobacco](https://github.com/tobacco-mofs/tobacco_3.0 "MAKEMOF")       
 * NIST吸附数据[NIST Data](https://adsorption.nist.gov/index.php#home "Adsorption data")                       
 * 无机化合物材料库[Materials Project](https://materialsproject.org/ "Materials project")                   
