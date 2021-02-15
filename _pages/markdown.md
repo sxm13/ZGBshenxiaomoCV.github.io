@@ -65,7 +65,8 @@ redirect_from:
   * 拓扑MOF材料生成[tobacco](https://github.com/tobacco-mofs/tobacco_3.0 "MAKEMOF")       
 * NIST吸附数据[NIST Data](https://adsorption.nist.gov/index.php#home "Adsorption data")                       
 * 无机化合物材料库[Materials Project](https://materialsproject.org/ "Materials project")                   
-* CCDC剑桥晶体库[CCDC](https://www.ccdc.cam.ac.uk/ "CCDC")                   
+* CCDC剑桥晶体库[CCDC](https://www.ccdc.cam.ac.uk/ "CCDC")   
+* Lammps[Force field](https://openkim.org/ "KimFF")                                            
 * 神经网络DDEC电荷[MPNN](https://github.com/SimonEnsemble/mpn_charges "MPNN")  
 * 英文[books download](https://z-lib.org/ "book")                     
 * 论文相关      
