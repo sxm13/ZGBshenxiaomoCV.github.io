@@ -69,7 +69,8 @@ redirect_from:
 * CCDC剑桥晶体库[CCDC](https://www.ccdc.cam.ac.uk/ "CCDC")   
 * Lammps[Force field](https://openkim.org/ "KimFF")                                            
 * 神经网络DDEC电荷[MPNN](https://github.com/SimonEnsemble/mpn_charges "MPNN")  
-* 英文[books download](https://z-lib.org/ "book")                     
+* 英文[books download](https://z-lib.org/ "book")  
+* 蒙特卡洛[理解](https://www.eng.buffalo.edu/~kofke/ce530/Lectures/Lecture22/sld002.htm "mcmd")                                         
 * 论文相关      
   * SCI分区[查询](http://www.letpub.com.cn/index.php?page=journalapp&view=search "SCI")     
   * SCI论文下载[scihub](https://tool.yovisun.com/scihub/ "scihub")   
