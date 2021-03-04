@@ -110,7 +110,7 @@ redirect_from:
 * 计算模拟之道公众号知乎[jsmnr](https://www.zhihu.com/people/jsmnzd/posts "jsmnr")             
 * 如果你也是研究生，如果你在为论文的公式/参考文献格式而烦恼[LaTeX](https://www.tablesgenerator.com/latex_tables "LaTex")                        
 * ASPEN-HYSYS[bilibili](https://space.bilibili.com/232674132/ "bilibili")        
-* 每天一篇英文[news](https://www.enewsdispatch.com/ "enews")                
+* 每天一篇英文[news](https://www.enewsdispatch.com/ "enews") 和 [Time](https://time.com/5943454/ "Time")                                          
   
 ## 希望我们每个人都有个list             
 
