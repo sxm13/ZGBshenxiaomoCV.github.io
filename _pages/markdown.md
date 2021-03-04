@@ -72,7 +72,7 @@ redirect_from:
 * 神经网络DDEC电荷[MPNN](https://github.com/SimonEnsemble/mpn_charges "MPNN")  
 * 英文[books download](https://z-lib.org/ "book")  
 * 基组[选择](https://www.basissetexchange.org/ "BASIC SET")  
-* 截取[data](https://apps.automeris.io/wpd/ "data“)                                                  
+* 截取[data](https://apps.automeris.io/wpd/ "data")                                                  
 * 蒙特卡洛[理解](https://www.eng.buffalo.edu/~kofke/ce530/Lectures/Lecture22/sld002.htm "mcmd")                                         
 * 论文相关      
   * SCI分区[查询](http://www.letpub.com.cn/index.php?page=journalapp&view=search "SCI")     
