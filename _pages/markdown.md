@@ -94,7 +94,8 @@ redirect_from:
   * 华东师范大学Jinzhe Zeng化学资料[ZJZ](https://njzjz.win/2019/03/04/ecnuchemistry/menu/ "ZJZ")                                                  
 * python             
   * python 画图入门[matplotlib](https://blog.csdn.net/Datawhale/article/details/109302260 "FIGTURE")                             
-  * [官方](https://github.com/matplotlib/cheatsheets "pf")            
+  * [官方](https://github.com/matplotlib/cheatsheets "pf")  
+  * [廖雪峰](https://www.liaoxuefeng.com/wiki/1016959663602400 "py")                                     
 * 第一性原理                
   * cp2k入门[小白](https://www.cnblogs.com/Shine-JK/p/10988556.html "xiaobai")       
   * cp2k知乎栏[蘭一](https://www.zhihu.com/people/lan-yi-27/posts?page=1 "cp2k")                  
