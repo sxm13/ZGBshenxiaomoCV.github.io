@@ -65,7 +65,8 @@ redirect_from:
   * [scieMOF](https://globalscience.berkeley.edu/database "MOF")                   
   * 拓扑MOF材料生成[tobacco](https://github.com/tobacco-mofs/tobacco_3.0 "MAKEMOF")       
 * NIST吸附数据[NIST Data](https://adsorption.nist.gov/index.php#home "Adsorption data")            
-* TraPPe[FF](http://trappe.oit.umn.edu/ "TRAPPE FF")                                                    
+* TraPPe[FF](http://trappe.oit.umn.edu/ "TRAPPE FF")  
+* OPLS[FF](http://zarbi.chem.yale.edu/ligpargen/ "OPLA")                                                                                     
 * 无机化合物材料库[Materials Project](https://materialsproject.org/ "Materials project")                   
 * CCDC剑桥晶体库[CCDC](https://www.ccdc.cam.ac.uk/ "CCDC")   
 * Lammps[Force field](https://openkim.org/ "KimFF")                                            
@@ -73,7 +74,8 @@ redirect_from:
 * 英文[books download](https://z-lib.org/ "book")  
 * 基组[选择](https://www.basissetexchange.org/ "BASIC SET")  
 * 截取[data](https://apps.automeris.io/wpd/ "data")                                                  
-* 蒙特卡洛[理解](https://www.eng.buffalo.edu/~kofke/ce530/Lectures/Lecture22/sld002.htm "mcmd")                                         
+* 蒙特卡洛[理解](https://www.eng.buffalo.edu/~kofke/ce530/Lectures/Lecture22/sld002.htm "mcmd")        
+* 偏心[因子](http://www.ap1700.com/ShowWord33.htm "w")                                                  
 * 论文相关      
   * SCI分区[查询](http://www.letpub.com.cn/index.php?page=journalapp&view=search "SCI")     
   * SCI论文下载[scihub](https://tool.yovisun.com/scihub/ "scihub")   
@@ -119,11 +121,12 @@ redirect_from:
 | PLAN    | PROBLEM | PROCESS |
 |:--------|:-------:|--------:|
 | RASPA   | NO      | FINISH  |
-| LAMMPS  | NO      | FINISH  |
+| LAMMPS  | NO      | USING  |
 |-----------------------------|
 | MS      | NO      | FINISH  |
 | CP2K    | NO      | FINISH  |
 |=============================|
 | ML      | CODE    |STUDYING |
+| GAUSSIAN| METHOD  |STUDYING |
 
 
