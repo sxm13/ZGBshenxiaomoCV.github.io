@@ -75,7 +75,8 @@ redirect_from:
 * 基组[选择](https://www.basissetexchange.org/ "BASIC SET")  
 * 截取[data](https://apps.automeris.io/wpd/ "data")                                                  
 * 蒙特卡洛[理解](https://www.eng.buffalo.edu/~kofke/ce530/Lectures/Lecture22/sld002.htm "mcmd")        
-* 偏心[因子](http://www.ap1700.com/ShowWord33.htm "w")                                                  
+* 偏心[因子](http://www.ap1700.com/ShowWord33.htm "w")     
+* 力场与晶体库[a](https://www.ctcms.nist.gov/potentials/ "a")[b](https://spasmmini.weebly.com/potentials.html "b")[c](https://sites.gatech.edu/sxu66 "c")[d](http://www.crystallography.net/cod/search.html "d")                                                                                                     
 * 论文相关      
   * SCI分区[查询](http://www.letpub.com.cn/index.php?page=journalapp&view=search "SCI")     
   * SCI论文下载[scihub](https://tool.yovisun.com/scihub/ "scihub")   
