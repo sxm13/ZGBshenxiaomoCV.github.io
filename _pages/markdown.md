@@ -29,7 +29,10 @@ redirect_from:
 * 多孔材料表征软件
   * [zeo++](http://www.zeoplusplus.org/ "zeo++") 及python计算模块[pygaps](https://pygaps.readthedocs.io/en/master/ "pygaps")。   
   * MOF[explorer](http://mausdin.github.io/MOFsite/mofPage.html "MP")   
-  * py[window](https://github.com/JelfsMaterialsGroup/pywindow "pywindow")                                                       
+  * py[window](https://github.com/JelfsMaterialsGroup/pywindow "pywindow")    
+  * [pygaps](https://github.com/pauliacomi/pygaps "PSD")                           
+  * [SAIEUS](http://www.nldft.com/download/ "nldft")                
+  * [SESAMI](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b02116 "bet")                                                                                      
 * 电荷计算
   * [DDEC](https://sourceforge.net/projects/ddec/ "DDEC")。              
 * 吸附与分离模型拟合
@@ -55,7 +58,8 @@ redirect_from:
 * disorder[disorder](https://github.com/jichunlian/disorder "disorder")       
 * 逸度换算[f](https://github.com/sxm13/ZGBshenxiaomoCV.github.io/tree/main/files/fugacity "f")                         
 * [open babel](https://github.com/openbabel/openbabel/releases/tag/openbabel-2-4-0 "Open Babel")      
-* 远程控制电脑[Teamviewer](https://www.teamviewer.cn/cn/ "teamviewer")                         
+* 远程控制电脑[Teamviewer](https://www.teamviewer.cn/cn/ "teamviewer")       
+* 开放位点[check](https://github.com/kjappelbaum/mofchecker "mofchecker")和[OMS](https://github.com/emmhald/open_metal_detector "OMS)                                
 
 ## 数据库链接          
 
