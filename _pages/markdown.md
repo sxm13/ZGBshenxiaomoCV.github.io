@@ -67,7 +67,11 @@ redirect_from:
   * [MOFs 晶体库](https://zenodo.org/record/3677685#.X8uDkrniuUl "2019coRE MOF")。                          
   * [QMOF](https://github.com/arosen93/QMOF "QMOF")
   * [scieMOF](https://globalscience.berkeley.edu/database "MOF")                   
-  * 拓扑MOF材料生成[tobacco](https://github.com/tobacco-mofs/tobacco_3.0 "MAKEMOF")       
+  * 拓扑MOF材料生成[tobacco](https://github.com/tobacco-mofs/tobacco_3.0 "MAKEMOF")     
+* COF database
+  * 数字编号[COF](https://github.com/danieleongari/CURATED-COFs "COF1")                 
+  * 原名字[COF](https://github.com/core-cof/CoRE-COF-Database "COF2")                          
+  * DDEC[COF](https://www.materialscloud.org/discover/curated-cofs#mcloudHeader "COF3")                                    
 * NIST吸附数据[NIST Data](https://adsorption.nist.gov/index.php#home "Adsorption data")            
 * TraPPe[FF](http://trappe.oit.umn.edu/ "TRAPPE FF")  
 * OPLS[FF](http://zarbi.chem.yale.edu/ligpargen/ "OPLA")                                                                                     
