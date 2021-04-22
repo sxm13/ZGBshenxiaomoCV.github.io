@@ -59,7 +59,7 @@ redirect_from:
 * 逸度换算[f](https://github.com/sxm13/ZGBshenxiaomoCV.github.io/tree/main/files/fugacity "f")                         
 * [open babel](https://github.com/openbabel/openbabel/releases/tag/openbabel-2-4-0 "Open Babel")      
 * 远程控制电脑[Teamviewer](https://www.teamviewer.cn/cn/ "teamviewer")       
-* 开放位点[check](https://github.com/kjappelbaum/mofchecker "mofchecker")和[OMS](https://github.com/emmhald/open_metal_detector "OMS)                                
+* 开放位点[check](https://github.com/kjappelbaum/mofchecker "mofchecker")和[OMS](https://github.com/emmhald/open_metal_detector "OMS")                                
 
 ## 数据库链接          
 
@@ -76,7 +76,7 @@ redirect_from:
 * TraPPe[FF](http://trappe.oit.umn.edu/ "TRAPPE FF")  
 * OPLS[FF](http://zarbi.chem.yale.edu/ligpargen/ "OPLA")                                                                                     
 * 无机化合物材料库[Materials Project](https://materialsproject.org/ "Materials project")       
-* 化学结构[SMILES](http://www.chemexper.com/ “chem")                                     
+* 化学结构[SMILES](http://www.chemexper.com/ "chem")                                     
 * CCDC剑桥晶体库[CCDC](https://www.ccdc.cam.ac.uk/ "CCDC")   
 * Lammps[Force field](https://openkim.org/ "KimFF")                                            
 * 神经网络DDEC电荷[MPNN](https://github.com/SimonEnsemble/mpn_charges "MPNN")  
