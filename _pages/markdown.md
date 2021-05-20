@@ -80,7 +80,7 @@ redirect_from:
 * CCDC剑桥晶体库[CCDC](https://www.ccdc.cam.ac.uk/ "CCDC")   
 * Lammps[Force field](https://openkim.org/ "KimFF")                                            
 * 神经网络DDEC电荷[MPNN](https://github.com/SimonEnsemble/mpn_charges "MPNN")  
-* 英文[books download](https://z-lib.org/ "book")  
+* 英文[books download](https://z-lib.org/ "book")和[stf](https://web.stanford.edu/~hastie/ElemStatLearn/ "book")                          
 * 基组[选择](https://www.basissetexchange.org/ "BASIC SET")  
 * 截取[data](https://apps.automeris.io/wpd/ "data")                                                  
 * 蒙特卡洛[理解](https://www.eng.buffalo.edu/~kofke/ce530/Lectures/Lecture22/sld002.htm "mcmd")        
