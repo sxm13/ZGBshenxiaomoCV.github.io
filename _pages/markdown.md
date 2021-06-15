@@ -88,7 +88,8 @@ redirect_from:
 * 力场与晶体库[a](https://www.ctcms.nist.gov/potentials/ "a")[b](https://spasmmini.weebly.com/potentials.html "b")[c](https://sites.gatech.edu/sxu66 "c")[d](http://www.crystallography.net/cod/search.html "d")                                                                                                     
 * 论文相关      
   * SCI分区[查询](http://www.letpub.com.cn/index.php?page=journalapp&view=search "SCI")     
-  * SCI论文下载[scihub](https://tool.yovisun.com/scihub/ "scihub")   
+  * SCI论文下载[scihub](https://tool.yovisun.com/scihub/ "scihub")  
+  * SCI[缩写查询](https://cassi.cas.org/search.jsp "scisx")                  
   * 皮皮[图书馆](http://www.xttsg.com/ "pipi")   
   
 ## 学习资料网址          
