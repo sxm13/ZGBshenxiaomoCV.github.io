@@ -108,7 +108,8 @@ redirect_from:
   * adsorption[ML](https://ann20-aiche.ipostersessions.com/default.aspx?s=77-31-78-3F-38-F6-7E-22-83-07-0E-35-DF-70-41-E6 "ML")
   * 华东师范大学Jinzhe Zeng化学资料[ZJZ](https://njzjz.win/2019/03/04/ecnuchemistry/menu/ "ZJZ")                                                  
 * python             
-  * python 画图入门[matplotlib](https://blog.csdn.net/Datawhale/article/details/109302260 "FIGTURE")                             
+  * python 画图入门[matplotlib](https://blog.csdn.net/Datawhale/article/details/109302260 "FIGTURE")    
+  * ML[画图](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/ "fig")                                            
   * [官方](https://github.com/matplotlib/cheatsheets "pf")  
   * [廖雪峰](https://www.liaoxuefeng.com/wiki/1016959663602400 "py")                                     
 * 第一性原理                
