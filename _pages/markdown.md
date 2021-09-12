@@ -20,7 +20,7 @@ redirect_from:
 * GCMC吸附分离计算程序
   * [RASPA2](https://github.com/iRASPA/RASPA2 "Make by David")。             
 * 分子动力学
-  * [Lammps](https://lammps.sandia.gov/ "Lammps")及自动生成MOFs的Lammps in文件和data文件[Lammps-interface](https://github.com/peteboyd/lammps_interface/ "Lammps-interface")。     
+  * [Lammps](https://lammps.sandia.gov/ "Lammps")及自动生成MOFs的Lammps in文件和data文件[Lammps-interface](https://github.com/peteboyd/lammps_interface/ "Lammps-interface")。        
   * [GROMACS](http://www.gromacs.org/ "md")
 * 第一性原理计算软件
   * [cp2k](https://www.cp2k.org/ "cp2k")及输入文件脚本[cp2k-editor](https://github.com/avishart/CP2K_Editor/ "cp2k-editor")。          
@@ -110,8 +110,9 @@ redirect_from:
   * [Youtube](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html "ML")                          
   * [github](https://github.com/nndl "ML")
   * adsorption[ML](https://ann20-aiche.ipostersessions.com/default.aspx?s=77-31-78-3F-38-F6-7E-22-83-07-0E-35-DF-70-41-E6 "ML")
-  * 华东师范大学Jinzhe Zeng化学资料[ZJZ](https://njzjz.win/2019/03/04/ecnuchemistry/menu/ "ZJZ")              
-* GROMACS[中文教程](https://jerkwin.github.io/9999/10/31/GROMACS%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B/ "gmx")              
+  * 华东师范大学Jinzhe Zeng化学资料[ZJZ](https://njzjz.win/2019/03/04/ecnuchemistry/menu/ "ZJZ")                          
+* GROMACS[中文教程](https://jerkwin.github.io/9999/10/31/GROMACS%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B/ "gmx")                                                            
+* [wechat](https://mp.weixin.qq.com/s/PZzd-rmB7GtJe-wRqXuVlA "wechat")                                                                                     
 * python             
   * python 画图入门[matplotlib](https://blog.csdn.net/Datawhale/article/details/109302260 "FIGTURE")    
   * ML[画图](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/ "fig")                                            
