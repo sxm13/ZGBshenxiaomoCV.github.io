@@ -38,6 +38,7 @@ redirect_from:
 * 吸附与分离模型拟合
   * python模块[pyIAST](https://github.com/CorySimon/pyIAST/ "pyIAST")。            
   * [IAST++](https://sangwon91.github.io/IASTpp/ "iast")      
+  * [gaIAST](https://github.com/salrodgom/gaiast "gaiast")              
 * 可视化软件
   * [VMD](https://www.ks.uiuc.edu/Research/vmd/ "VMD")。      
   * [VESTA](https://jp-minerals.org/vesta/en/ "VESTA")  
@@ -88,11 +89,14 @@ redirect_from:
 * 偏心[因子](http://www.ap1700.com/ShowWord33.htm "w")     
 * 力场与晶体库[a](https://www.ctcms.nist.gov/potentials/ "a")[b](https://spasmmini.weebly.com/potentials.html "b")[c](https://sites.gatech.edu/sxu66 "c")[d](http://www.crystallography.net/cod/search.html "d")                                    
 * 单位[转换](https://www.colby.edu/chemistry/PChem/Hartree.html "energy")                                                                                                         
+* PPT[POSTER](https://www.posterpresentations.com/free-poster-templates.html#chamberlain "POSTER")                      
+* [MIRO](https://miro.com/app/dashboard/ "miro")                 
 * 论文相关      
   * SCI分区[查询](http://www.letpub.com.cn/index.php?page=journalapp&view=search "SCI")     
   * SCI论文下载[scihub](https://tool.yovisun.com/scihub/ "scihub")  
-  * SCI[缩写查询](https://cassi.cas.org/search.jsp "scisx")                  
-  * 皮皮[图书馆](http://www.xttsg.com/ "pipi")   
+  * SCI[缩写查询](https://cassi.cas.org/search.jsp "scisx")     
+  * SCI[IF](https://jcr.clarivate.com/jcr/home?app=jcr&Init=Yes&authCode=null&SrcApp=IC2LS "JCR")                             
+  * 皮皮[图书馆](http://www.xttsg.com/ "pipi")      
   
 ## 学习资料网址          
        
@@ -106,7 +110,8 @@ redirect_from:
   * [Youtube](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html "ML")                          
   * [github](https://github.com/nndl "ML")
   * adsorption[ML](https://ann20-aiche.ipostersessions.com/default.aspx?s=77-31-78-3F-38-F6-7E-22-83-07-0E-35-DF-70-41-E6 "ML")
-  * 华东师范大学Jinzhe Zeng化学资料[ZJZ](https://njzjz.win/2019/03/04/ecnuchemistry/menu/ "ZJZ")                                                  
+  * 华东师范大学Jinzhe Zeng化学资料[ZJZ](https://njzjz.win/2019/03/04/ecnuchemistry/menu/ "ZJZ")              
+* GROMACS[中文教程](https://jerkwin.github.io/9999/10/31/GROMACS%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B/ "gmx")              
 * python             
   * python 画图入门[matplotlib](https://blog.csdn.net/Datawhale/article/details/109302260 "FIGTURE")    
   * ML[画图](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/ "fig")                                            
