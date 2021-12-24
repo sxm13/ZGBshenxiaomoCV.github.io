@@ -117,7 +117,8 @@ redirect_from:
 * [wechat](https://mp.weixin.qq.com/s/PZzd-rmB7GtJe-wRqXuVlA "wechat")                                                                                     
 * python             
   * python 画图入门[matplotlib](https://blog.csdn.net/Datawhale/article/details/109302260 "FIGTURE")    
-  * ML[画图](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/ "fig")                                            
+  * ML[画图](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/ "fig")  
+  * [cheet](https://github.com/matplotlib/cheatsheets "cheet")                                                                            
   * [官方](https://github.com/matplotlib/cheatsheets "pf")  
   * [廖雪峰](https://www.liaoxuefeng.com/wiki/1016959663602400 "py")                                     
 * 第一性原理                
