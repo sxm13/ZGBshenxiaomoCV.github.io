@@ -89,7 +89,7 @@ redirect_from:
 * 蒙特卡洛[理解](https://www.eng.buffalo.edu/~kofke/ce530/Lectures/Lecture22/sld002.htm "mcmd")        
 * 偏心[因子](http://www.ap1700.com/ShowWord33.htm "w")     
 * 力场与晶体库[a](https://www.ctcms.nist.gov/potentials/ "a")[b](https://spasmmini.weebly.com/potentials.html "b")[c](https://sites.gatech.edu/sxu66 "c")[d](http://www.crystallography.net/cod/search.html "d")                                    
-* 单位[转换](https://www.colby.edu/chemistry/PChem/Hartree.html "energy")and[nist](http://wild.life.nctu.edu.tw/class/common/energy-unit-conv-table.html)                                                                                                                               
+* 单位[转换](https://www.colby.edu/chemistry/PChem/Hartree.html "energy")and[nist](http://wild.life.nctu.edu.tw/class/common/energy-unit-conv-table.html)   
 * [MIRO](https://miro.com/app/dashboard/ "miro")                 
 * [WebMO](http://10.125.128.30/~website/cgi-bin/webmo/login.cgi "webmo")                                                 
 * 论文相关      
@@ -100,7 +100,7 @@ redirect_from:
   
 ## 学习资料网址          
        
-* 如果你在学习机器学习
+* 机器学习
   * [Kaggle](https://www.kaggle.com/ "ML")
   * [weka](https://waikato.github.io/weka-wiki/ "weka")                       
   * 谷歌机器学习[googleML](https://developers.google.com/machine-learning/crash-course "googleML")       
@@ -109,8 +109,7 @@ redirect_from:
   * [Youtube](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html "ML")                          
   * [github](https://github.com/nndl "ML")
   * adsorption[ML](https://ann20-aiche.ipostersessions.com/default.aspx?s=77-31-78-3F-38-F6-7E-22-83-07-0E-35-DF-70-41-E6 "ML")                         
-* GROMACS[中文教程](https://jerkwin.github.io/9999/10/31/GROMACS%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B/ "gmx")                                                      
-* [wechat](https://mp.weixin.qq.com/s/PZzd-rmB7GtJe-wRqXuVlA "wechat")                                                                                     
+* GROMACS[中文教程](https://jerkwin.github.io/9999/10/31/GROMACS%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B/ "gmx")                                               
 * python             
   * ML[画图](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/ "fig")  
   * [cheet](https://github.com/matplotlib/cheatsheets "cheet")                                                                            
@@ -118,7 +117,7 @@ redirect_from:
 * 第一性原理                
   * cp2k入门[小白](https://www.cnblogs.com/Shine-JK/p/10988556.html "xiaobai")               
   * cp2k[google论坛](https://groups.google.com/g/cp2k "cp2k")                                 
-* 如果你不懂晶体对称性[symmetry](http://xrayweb.chem.ou.edu/notes/symmetry.html#crystal "symmetry")       
+* 晶体对称性[symmetry](http://xrayweb.chem.ou.edu/notes/symmetry.html#crystal "symmetry")       
 * 爱课程[MOOC](https://www.icourse163.org/university/icourse/#/c "MOOC")                                
-* 如果你也是研究生，如果你在为论文的公式/参考文献格式而烦恼[LaTeX](https://www.tablesgenerator.com/latex_tables "LaTex")及在线[overleaf](https://www.overleaf.com/project# "latex")                                                   
-* 每天一篇英文[news](https://www.enewsdispatch.com/ "enews") 和 [Time](https://time.com/5943454/ "Time")                                          
+* 论文的公式/参考文献格式[LaTeX](https://www.tablesgenerator.com/latex_tables "LaTex")及在线[overleaf](https://www.overleaf.com/project# "latex")             
+* [news](https://www.enewsdispatch.com/ "enews") [Time](https://time.com/5943454/ "Time")                                          
