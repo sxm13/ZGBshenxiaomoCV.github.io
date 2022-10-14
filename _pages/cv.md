@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
 * B.S. in Zhejiang Zhoushan. Zhejiang Ocean University. Marine Engineering(Ship Building and Repairi). 2014-2018.
 * M.S. in Fujian Xiamen. Jimei University. Naval Architecture and Ocean Engineering. 2018-2020.
 * Ph.D in Korean Pusan. Pusan National University. School of chemical engineering. 2020-Now.
 
-Work experience
+兼职经历
 ======
 * Summer 2014: 发传单
   * 绿城房地产
@@ -42,7 +42,7 @@ Work experience
   * Duties included: 劳务
   * Boss: Forgotten
   
-Skills
+技能
 ======
 * 计算机办公
 * 语言
@@ -62,7 +62,9 @@ Skills
   * 3 flex
   * PCT
   * Make MOFs
-  * charge and discharge
+  * charge and discharge              
+  * ASAP2020           
+  * PSA             
 * ...
          
 研究领域     
