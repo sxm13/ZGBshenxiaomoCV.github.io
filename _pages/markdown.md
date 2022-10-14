@@ -137,19 +137,3 @@ redirect_from:
 * 如果你也是研究生，如果你在为论文的公式/参考文献格式而烦恼[LaTeX](https://www.tablesgenerator.com/latex_tables "LaTex")及在线[overleaf](https://www.overleaf.com/project# "latex")                                                 
 * ASPEN-HYSYS[bilibili](https://space.bilibili.com/232674132/ "bilibili")        
 * 每天一篇英文[news](https://www.enewsdispatch.com/ "enews") 和 [Time](https://time.com/5943454/ "Time")                                          
-  
-## 希望我们每个人都有个list             
-
-
-| PLAN    | PROBLEM | PROCESS |
-|:--------|:-------:|--------:|
-| RASPA   | NO      | FINISH  |
-| LAMMPS  | NO      | USING  |
-|-----------------------------|
-| MS      | NO      | FINISH  |
-| CP2K    | NO      | FINISH  |
-|=============================|
-| ML      | CODE    |STUDYING |
-| GAUSSIAN| METHOD  |STUDYING |
-
-
