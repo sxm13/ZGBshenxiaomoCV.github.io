@@ -90,9 +90,8 @@ redirect_from:
 * 偏心[因子](http://www.ap1700.com/ShowWord33.htm "w")     
 * 力场与晶体库[a](https://www.ctcms.nist.gov/potentials/ "a")[b](https://spasmmini.weebly.com/potentials.html "b")[c](https://sites.gatech.edu/sxu66 "c")[d](http://www.crystallography.net/cod/search.html "d")                                    
 * 单位[转换](https://www.colby.edu/chemistry/PChem/Hartree.html "energy")and[nist](http://wild.life.nctu.edu.tw/class/common/energy-unit-conv-table.html)   
-* [MIRO](https://miro.com/app/dashboard/ "miro")                 
 * [WebMO](http://10.125.128.30/~website/cgi-bin/webmo/login.cgi "webmo")                                                 
-* 论文相关      
+* 期刊      
   * SCI分区[查询](http://www.letpub.com.cn/index.php?page=journalapp&view=search "SCI")     
   * SCI论文下载[scihub](https://tool.yovisun.com/scihub/ "scihub")  
   * SCI[缩写查询](https://cassi.cas.org/search.jsp "scisx")     
