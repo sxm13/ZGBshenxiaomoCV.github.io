@@ -77,7 +77,7 @@ redirect_from:
 * [截取](https://apps.automeris.io/wpd/ "data")                                                  
 * [蒙特卡洛](https://www.eng.buffalo.edu/~kofke/ce530/Lectures/Lecture22/sld002.htm "mcmd")        
 * [偏心因子](http://www.ap1700.com/ShowWord33.htm "w")     
-* 力场与晶体库[a](https://www.ctcms.nist.gov/potentials/ "a")[b](https://spasmmini.weebly.com/potentials.html "b")[c](https://sites.gatech.edu/sxu66 "c")[d](http://www.crystallography.net/cod/search.html "d")
+* 力场与晶体库[1](https://www.ctcms.nist.gov/potentials/ "a")[2](https://spasmmini.weebly.com/potentials.html "b")[3](https://sites.gatech.edu/sxu66 "c")[4](http://www.crystallography.net/cod/search.html "d")
   * TraPPe[FF](http://trappe.oit.umn.edu/ "TRAPPE FF")  
   * OPLS[FF](http://zarbi.chem.yale.edu/ligpargen/ "OPLA")                                                                                     
   * 无机材料[Materials Project](https://materialsproject.org/ "Materials project")   
