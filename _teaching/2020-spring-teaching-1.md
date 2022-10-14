@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "占位"
 collection: teaching
-type: "高通量 course"
+type: "高通量"
 permalink: /teaching/2020-spring-teaching-1
-venue: "Pusan National University, School of chemical engineering"
+venue: "Waitttttttttttttttttttttttttttttttttt"
 date: 2021-01-28
 location: "Pusan, Korean"
 ---
