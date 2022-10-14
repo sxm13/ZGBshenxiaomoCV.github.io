@@ -71,7 +71,6 @@ redirect_from:
 * [porous](https://github.com/SimonEnsemble/porous-material-AI-gym "database")                                                
 * NIST吸附数据[NIST Data](https://adsorption.nist.gov/index.php#home "Adsorption data")    
 * [HUB](https://datahub.hymarc.org/dataset "HUB")                                  
-*                                            
 * 神经网络DDEC电荷[MPNN](https://github.com/SimonEnsemble/mpn_charges "MPNN")  
 * [books download](https://z-lib.org/ "book")和[stf](https://web.stanford.edu/~hastie/ElemStatLearn/ "book")                          
 * [基组](https://www.basissetexchange.org/ "BASIC SET")  
