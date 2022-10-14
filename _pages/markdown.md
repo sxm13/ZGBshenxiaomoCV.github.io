@@ -7,17 +7,15 @@ redirect_from:
   - /markdown.html
 ---
 
-## 计算软件链接          
+## 计算软件          
 
 * python
-  * [Anaconda](https://www.anaconda.com/ "python")                         
-  * [pycharm](https://www.jetbrains.com/pycharm/ "python") 
+  * [Anaconda](https://www.anaconda.com/ "python")                          
   * [IDLE](https://www.python.org/ "python")   
   * [pyenv](https://github.com/pyenv/pyenv "pyenv")                                      
   * [git](https://git-scm.com/ "git")                        
-  * [pip](https://pypi.org/project/pip/ "pip")
   * [dooker](https://www.docker.com/ "dooker")                            
-* GCMC吸附分离计算程序
+* GCMC吸附分离
   * [RASPA2](https://github.com/iRASPA/RASPA2 "Make by David")。             
 * 分子动力学
   * [Lammps](https://lammps.sandia.gov/ "Lammps")及自动生成MOFs的Lammps in文件和data文件[Lammps-interface](https://github.com/peteboyd/lammps_interface/ "Lammps-interface")。        
@@ -115,7 +113,8 @@ redirect_from:
   * [官方](https://github.com/matplotlib/cheatsheets "pf")                                      
 * 第一性原理                
   * cp2k入门[小白](https://www.cnblogs.com/Shine-JK/p/10988556.html "xiaobai")               
-  * cp2k[google论坛](https://groups.google.com/g/cp2k "cp2k")                                 
+  * cp2k[google论坛](https://groups.google.com/g/cp2k "cp2k")
+  * VASP[wiki](https://www.vasp.at/wiki/index.php/Category:VASP6 "VASP")                                                
 * 晶体对称性[symmetry](http://xrayweb.chem.ou.edu/notes/symmetry.html#crystal "symmetry")       
 * 爱课程[MOOC](https://www.icourse163.org/university/icourse/#/c "MOOC")                                
 * 论文的公式/参考文献格式[LaTeX](https://www.tablesgenerator.com/latex_tables "LaTex")及在线[overleaf](https://www.overleaf.com/project# "latex")             
