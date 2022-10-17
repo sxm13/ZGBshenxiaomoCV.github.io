@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-                         整理中                                                              
+## 整理中                                                              
