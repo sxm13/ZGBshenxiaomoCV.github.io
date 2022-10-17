@@ -50,17 +50,17 @@ redirect_from:
   * 英语
   * 韩语
 * 机器学习
-  * python
-  * keras
+  * python                                
 * origin
-* CAD
-* Matlab
-* RASPA
-* cp2k
-* Lammps
-* Experiment
-  * 3 flex
-  * PCT
+* CAD                 
+* RASPA           
+* cp2k                
+* vasp                      
+* Gaussian                                   
+* Lammps                       
+* Experiment               
+  * 3 flex                                  
+  * PCT                         
   * Make MOFs
   * charge and discharge              
   * ASAP2020           
@@ -72,7 +72,8 @@ redirect_from:
  蒙特卡洛                  
  分子动力学                        
  密度泛函计算              
- 机器学习-多孔材料 
+ 机器学习-多孔材料
+ 实验-合成/测试                                                  
  
  获奖情况     
 ======
@@ -82,9 +83,8 @@ redirect_from:
   
 Details
 ======       
-知乎[知乎](https://www.zhihu.com/people/mo-ran-hui-shou-16-68-98 "CV")                         
-Kakaotalk: Sxmzgb20200827         
-百度[网盘](https://pan.baidu.com/disk/home?#/all?vmode=list&path=%2F "pan")                                
+[知乎](https://www.zhihu.com/people/mo-ran-hui-shou-16-68-98 "CV")                         
+Kakaotalk: Sxmzgb20200827                                    
 
 Publications
 ======
