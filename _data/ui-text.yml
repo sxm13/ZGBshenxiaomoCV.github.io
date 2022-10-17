@@ -21,8 +21,6 @@ en: &DEFAULT_EN
   comments_title             : "Comments"
   more_label                 : "Learn More"
   related_label              : "You May Also Enjoy"
-  follow_label               : "Follow:"
-  feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "Website"
   email_label                : "Email"
@@ -69,8 +67,6 @@ es: &DEFAULT_ES
   comments_title             :
   more_label                 : "Ver más"
   related_label              : "Podrías ver también"
-  follow_label               : "Seguir:"
-  feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "Sitio web"
   email_label                : "Email"
@@ -113,8 +109,6 @@ fr: &DEFAULT_FR
   comments_title             :
   more_label                 : "Lire plus"
   related_label              : "Vous pourriez aimer"
-  follow_label               : "Suivez moi"
-  feed_label                 : "Flux"
   powered_by                 : "Propulsé par"
   website_label              : "Site"
   email_label                : "Email"
@@ -159,8 +153,6 @@ tr: &DEFAULT_TR
   comments_title             :
   more_label                 : "Daha fazlasını öğrenin"
   related_label              : "Bunlar ilginizi çekebilir:"
-  follow_label               : "Takip et:"
-  feed_label                 : "RSS"
   powered_by                 : "Emeği geçenler: "
   website_label              : "Web sayfası"
   email_label                : "E-posta"
@@ -201,8 +193,6 @@ pt: &DEFAULT_PT
   comments_title             :
   more_label                 : "Aprenda Mais"
   related_label              : "Talvez Você Goste Também"
-  follow_label               : "Acompanhe em"
-  feed_label                 : "Feed"
   powered_by                 : "Feito por"
   website_label              : "Site"
   email_label                : "E-mail"
@@ -245,8 +235,6 @@ it: &DEFAULT_IT
   comments_title             :
   more_label                 : "Scopri di più"
   related_label              : "Potrebbe Piacerti Anche"
-  follow_label               : "Segui:"
-  feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "Website"
   email_label                : "Email"
