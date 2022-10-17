@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "常用网站"
+title: ""
 author_profile: true
 redirect_from: 
   - /md/
