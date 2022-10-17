@@ -83,21 +83,14 @@ Details
 ======       
 [知乎](https://www.zhihu.com/people/mo-ran-hui-shou-16-68-98 "CV")                         
 Kakaotalk: Sxmzgb20200827                                    
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* 1
-### 郑青榕教授课题组网站             
 
+### 郑青榕教授课题组网站             
+                      
 福建省船舶与海洋工程实验室[新能源组](http://mei.jmu.edu.cn/info/1070/1126.htm "")。        
 
-* 2
 ### Chung Yongchul G.教授课题组网站           
-
+                             
 计算材料与化学过程实验室[Lab of CMCP](https://cmcp-group.github.io/ "")。
