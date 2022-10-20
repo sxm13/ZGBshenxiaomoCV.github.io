@@ -18,19 +18,15 @@ redirect_from:
 * Summer 2014: 发传单
   * 绿城房地产
   * Duties included: 劳务
-
 * Summer 2015: 餐饮服务员
   * 南洋国际酒店
   * Duties included: 劳务派遣
-  
 * Summer 2016: 家庭教师
   * 海文教育
-  * Duties included: 教书育人
- 
+  * Duties included: Math
 * Summer 2017: 大学生实习
   * 海晨船厂
   * Duties included: 参观学习
-  
 * Summer 2018: 管家
   * 朱家尖民宿
   * Duties included: 劳务
