@@ -61,7 +61,7 @@ Research
  GCMC                  
  MD                        
  DFT              
- Machine learning
+ Machine learning                                                                                       
  Process simulation
  Experiment-Prepare/Test                                                  
  
