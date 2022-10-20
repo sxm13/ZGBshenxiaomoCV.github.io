@@ -21,9 +21,9 @@ redirect_from:
   * [Lammps-interface](https://github.com/peteboyd/lammps_interface/ "Lammps-interface")。        
   * [GROMACS](http://www.gromacs.org/ "md")
 * DFT
-  * [cp2k](https://www.cp2k.org/ "cp2k")及输入文件脚本[cp2k-editor](https://github.com/avishart/CP2K_Editor/ "cp2k-editor")。          
+  * [cp2k](https://www.cp2k.org/ "cp2k")and[cp2k-editor](https://github.com/avishart/CP2K_Editor/ "cp2k-editor")。          
   * [ORCA](https://orcaforum.kofo.mpg.de/app.php/portal "ORCA")      
-  * [QE](https://www.quantum-espresso.org/ "QE")及input[qeinput](https://www.materialscloud.org/work/tools/qeinputgenerator "qi")            
+  * [QE](https://www.quantum-espresso.org/ "QE")and[qeinput](https://www.materialscloud.org/work/tools/qeinputgenerator "qi")            
 * Nanoporous
   * [zeo++](http://www.zeoplusplus.org/ "zeo++")  and [pygaps](https://pygaps.readthedocs.io/en/master/ "pygaps")。   
   * MOF[explorer](http://mausdin.github.io/MOFsite/mofPage.html "MP")   
