@@ -21,18 +21,18 @@ redirect_from:
   * [Lammps-interface](https://github.com/peteboyd/lammps_interface/ "Lammps-interface")        
   * [GROMACS](http://www.gromacs.org/ "md")
 * DFT
-  * [cp2k](https://www.cp2k.org/ "cp2k")and[cp2k-editor](https://github.com/avishart/CP2K_Editor/ "cp2k-editor")。          
+  * [cp2k](https://www.cp2k.org/ "cp2k")and[cp2k-editor](https://github.com/avishart/CP2K_Editor/ "cp2k-editor")          
   * [ORCA](https://orcaforum.kofo.mpg.de/app.php/portal "ORCA")      
   * [QE](https://www.quantum-espresso.org/ "QE")and[qeinput](https://www.materialscloud.org/work/tools/qeinputgenerator "qi")            
 * Nanoporous
-  * [zeo++](http://www.zeoplusplus.org/ "zeo++")  and [pygaps](https://pygaps.readthedocs.io/en/master/ "pygaps")。   
+  * [zeo++](http://www.zeoplusplus.org/ "zeo++")  and [pygaps](https://pygaps.readthedocs.io/en/master/ "pygaps")   
   * MOF[explorer](http://mausdin.github.io/MOFsite/mofPage.html "MP")   
   * py[window](https://github.com/JelfsMaterialsGroup/pywindow "pywindow")    
   * [pygaps](https://github.com/pauliacomi/pygaps "PSD")                           
   * [SAIEUS](http://www.nldft.com/download/ "nldft")                
   * [SESAMI](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b02116 "bet")                                                                                      
 * Charge
-  * [DDEC](https://sourceforge.net/projects/ddec/ "DDEC")。              
+  * [DDEC](https://sourceforge.net/projects/ddec/ "DDEC")              
 * Fit
   * [pyIAST](https://github.com/CorySimon/pyIAST/ "pyIAST")            
   * [IAST++](https://sangwon91.github.io/IASTpp/ "iast")      
@@ -43,10 +43,10 @@ redirect_from:
   * [iRASPA](https://iraspa.org/ "iRASPA")                  
   * [vislt](https://wci.llnl.gov/simulation/computer-codes/visit/executables "vislt")                  
 * Workflow Softwares     
-  * [ASE](https://wiki.fysik.dtu.dk/ase/index.html "ase")。                  
+  * [ASE](https://wiki.fysik.dtu.dk/ase/index.html "ase")                  
   * [pymatgen](https://pymatgen.org/ "pymatgen")。                  
   * [xtb](https://xtb-docs.readthedocs.io/en/latest/contents.html "xtb")                  
-  * [cclib](https://cclib.github.io/ "cclib")。  
+  * [cclib](https://cclib.github.io/ "cclib")  
   * [pymatflow](https://pymatflow.readthedocs.io/en/latest/index.html "pymatflow")
 * MOF-Force field
   * DFT[FF](https://github.com/molmod/QuickFF "MOFFF") 
@@ -60,7 +60,7 @@ redirect_from:
 
 ## Database         
 * MOF database
-  * [CoRE MOF](https://zenodo.org/record/3677685#.X8uDkrniuUl "2019CoRE MOF")。                          
+  * [CoRE MOF](https://zenodo.org/record/3677685#.X8uDkrniuUl "2019CoRE MOF")                          
   * [QMOF](https://github.com/arosen93/QMOF "QMOF")
   * [scieMOF](https://globalscience.berkeley.edu/database "MOF")                   
   * [tobacco](https://github.com/tobacco-mofs/tobacco_3.0 "MAKEMOF")     
