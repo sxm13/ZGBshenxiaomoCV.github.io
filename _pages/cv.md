@@ -7,13 +7,13 @@ redirect_from:
   - /resume
 ---     
 
-教育经历
+Education
 ======
 * B.S. in Zhejiang Zhoushan. Zhejiang Ocean University. Marine Engineering(Ship Building and Repairi). 2014-2018.
 * M.S. in Fujian Xiamen. Jimei University. Naval Architecture and Ocean Engineering. 2018-2020.
 * Ph.D in Korean Pusan. Pusan National University. School of chemical engineering. 2020-Now.
 
-兼职经历
+Part-time
 ======
 * Summer 2014: 发传单
   * 绿城房地产
@@ -31,7 +31,7 @@ redirect_from:
   * 朱家尖民宿
   * Duties included: 劳务
   
-技能
+Skill
 ======
 * Computer Office
 * Languages
@@ -56,24 +56,25 @@ redirect_from:
   * PSA             
 * ...
          
-研究领域     
+Research     
 ======
- 蒙特卡洛                  
- 分子动力学                        
- 密度泛函计算              
- 机器学习-多孔材料
- 实验-合成/测试                                                  
+ GCMC                  
+ MD                        
+ DFT              
+ Machine learning
+ Process simulation
+ Experiment-Prepare/Test                                                  
  
- 获奖情况     
+ Award     
 ======
-  优秀硕士毕业论文                       
+  福建省优秀硕士毕业论文                       
   优秀硕士毕业生                      
   优秀本科毕业论文                                                                                    
   
 Service and leadership
 ======
-### 郑青榕教授课题组网站                                  
+### 郑青榕教授                                 
 福建省船舶与海洋工程实验室[新能源组](http://mei.jmu.edu.cn/info/1070/1126.htm "1")。        
 
-### Chung Yongchul G.教授课题组网站                                   
+### Prof. Chung Yongchul G.                                   
 计算材料与化学过程实验室[Lab of CMCP](https://cmcp-group.github.io/ "2")。
