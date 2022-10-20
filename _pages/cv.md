@@ -18,36 +18,31 @@ redirect_from:
 * Summer 2014: 发传单
   * 绿城房地产
   * Duties included: 劳务
-  * Boss: Forgotten
 
 * Summer 2015: 餐饮服务员
   * 南洋国际酒店
   * Duties included: 劳务派遣
-  * Boss: Forgotten
   
 * Summer 2016: 家庭教师
   * 海文教育
   * Duties included: 教书育人
-  * Boss: Forgotten
  
 * Summer 2017: 大学生实习
   * 海晨船厂
   * Duties included: 参观学习
-  * Boss: Forgotten
   
 * Summer 2018: 管家
   * 朱家尖民宿
   * Duties included: 劳务
-  * Boss: Forgotten
   
 技能
 ======
-* 计算机办公
-* 语言
+* Computer Office
+* Languages
   * 普通话
-  * 英语
-  * 韩语
-* 机器学习
+  * English
+  * Korean
+* Machine learning
   * python                                
 * origin
 * CAD                 
@@ -77,20 +72,12 @@ redirect_from:
 ======
   优秀硕士毕业论文                       
   优秀硕士毕业生                      
-  优秀本科毕业论文                               
-  
-Details
-======       
-[知乎](https://www.zhihu.com/people/mo-ran-hui-shou-16-68-98 "CV")                         
-Kakaotalk: Sxmzgb20200827                                    
+  优秀本科毕业论文                                                                                    
   
 Service and leadership
 ======
-
-### 郑青榕教授课题组网站             
-                      
+### 郑青榕教授课题组网站                                  
 福建省船舶与海洋工程实验室[新能源组](http://mei.jmu.edu.cn/info/1070/1126.htm "1")。        
 
-### Chung Yongchul G.教授课题组网站           
-                             
+### Chung Yongchul G.教授课题组网站                                   
 计算材料与化学过程实验室[Lab of CMCP](https://cmcp-group.github.io/ "2")。
