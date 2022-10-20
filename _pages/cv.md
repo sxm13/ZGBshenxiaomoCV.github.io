@@ -77,4 +77,4 @@ Service and leadership
 福建省船舶与海洋工程实验室[新能源组](http://mei.jmu.edu.cn/info/1070/1126.htm "1")。        
 
 ### Prof. Chung Yongchul G.                                   
-计算材料与化学过程实验室[Lab of CMCP](https://cmcp-group.github.io/ "2")。
+[Molecular Thermodynamics and Advanced Processes Laboratory](https://cmcp-group.github.io/ "2")。
