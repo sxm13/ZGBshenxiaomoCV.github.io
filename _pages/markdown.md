@@ -15,10 +15,10 @@ redirect_from:
   * [git](https://git-scm.com/ "git")                        
   * [dooker](https://www.docker.com/ "dooker")                            
 * GCMC adsorption and separation
-  * [RASPA2](https://github.com/iRASPA/RASPA2 "Make by David")。             
+  * [RASPA2](https://github.com/iRASPA/RASPA2 "Make by David")             
 * MD
   * [Lammps](https://lammps.sandia.gov/ "Lammps")                                                                 
-  * [Lammps-interface](https://github.com/peteboyd/lammps_interface/ "Lammps-interface")。        
+  * [Lammps-interface](https://github.com/peteboyd/lammps_interface/ "Lammps-interface")        
   * [GROMACS](http://www.gromacs.org/ "md")
 * DFT
   * [cp2k](https://www.cp2k.org/ "cp2k")and[cp2k-editor](https://github.com/avishart/CP2K_Editor/ "cp2k-editor")。          
@@ -34,18 +34,18 @@ redirect_from:
 * Charge
   * [DDEC](https://sourceforge.net/projects/ddec/ "DDEC")。              
 * Fit
-  * [pyIAST](https://github.com/CorySimon/pyIAST/ "pyIAST")。            
+  * [pyIAST](https://github.com/CorySimon/pyIAST/ "pyIAST")            
   * [IAST++](https://sangwon91.github.io/IASTpp/ "iast")      
   * [gaIAST](https://github.com/salrodgom/gaiast "gaiast")              
 * Vis
-  * [VMD](https://www.ks.uiuc.edu/Research/vmd/ "VMD")。      
+  * [VMD](https://www.ks.uiuc.edu/Research/vmd/ "VMD")      
   * [VESTA](https://jp-minerals.org/vesta/en/ "VESTA")  
   * [iRASPA](https://iraspa.org/ "iRASPA")                  
   * [vislt](https://wci.llnl.gov/simulation/computer-codes/visit/executables "vislt")                  
 * Workflow Softwares     
   * [ASE](https://wiki.fysik.dtu.dk/ase/index.html "ase")。                  
   * [pymatgen](https://pymatgen.org/ "pymatgen")。                  
-  * [xtb](https://xtb-docs.readthedocs.io/en/latest/contents.html "xtb")。                  
+  * [xtb](https://xtb-docs.readthedocs.io/en/latest/contents.html "xtb")                  
   * [cclib](https://cclib.github.io/ "cclib")。  
   * [pymatflow](https://pymatflow.readthedocs.io/en/latest/index.html "pymatflow")
 * MOF-Force field
