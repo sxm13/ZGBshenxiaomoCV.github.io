@@ -56,8 +56,9 @@ redirect_from:
   * [STDU](https://stdu-viewer.en.softonic.com/ "STDU")                     
 * disorder[disorder](https://github.com/jichunlian/disorder "disorder")       
 * Pto[f](https://github.com/sxm13/ZGBshenxiaomoCV.github.io/tree/main/files/fugacity "f")                                   
-* OMS[check](https://github.com/kjappelbaum/mofchecker "mofchecker")和[OMS](https://github.com/emmhald/open_metal_detector "OMS")                      
-
+* OMS[check](https://github.com/kjappelbaum/mofchecker "mofchecker")和[OMS](https://github.com/emmhald/open_metal_detector "OMS")                     
+* AIWrhite(https://chat.openai.com/chat "openAI")                                               
+ 
 ## Database         
 * MOF database
   * [CoRE MOF](https://zenodo.org/record/3677685#.X8uDkrniuUl "2019CoRE MOF")                          
