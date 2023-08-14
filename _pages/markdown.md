@@ -30,7 +30,7 @@ redirect_from:
   * py[window](https://github.com/JelfsMaterialsGroup/pywindow "pywindow")    
   * [pygaps](https://github.com/pauliacomi/pygaps "PSD")                           
   * [SAIEUS](http://www.nldft.com/download/ "nldft")                
-  * [SESAMI](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b02116 "bet")[websitecal](https://sesami-web.org/ "bet")                                                                                                        
+  * [SESAMI](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b02116 "bet")[websitecal](https://sesami-web.org/ "bet")                                        
 * Charge
   * [DDEC](https://sourceforge.net/projects/ddec/ "DDEC")              
 * Fit
@@ -41,7 +41,8 @@ redirect_from:
   * [VMD](https://www.ks.uiuc.edu/Research/vmd/ "VMD")      
   * [VESTA](https://jp-minerals.org/vesta/en/ "VESTA")  
   * [iRASPA](https://iraspa.org/ "iRASPA")                  
-  * [vislt](https://wci.llnl.gov/simulation/computer-codes/visit/executables "vislt")                  
+  * [vislt](https://wci.llnl.gov/simulation/computer-codes/visit/executables "vislt")                                              
+  * [gnuplot](http://lowrank.net/gnuplot/index-e.html)                                                 
 * Workflow Softwares     
   * [ASE](https://wiki.fysik.dtu.dk/ase/index.html "ase")                  
   * [pymatgen](https://pymatgen.org/ "pymatgen")。                  
@@ -57,7 +58,8 @@ redirect_from:
 * disorder[disorder](https://github.com/jichunlian/disorder "disorder")       
 * Pto[f](https://github.com/sxm13/ZGBshenxiaomoCV.github.io/tree/main/files/fugacity "f")                                   
 * OMS[check](https://github.com/kjappelbaum/mofchecker "mofchecker")和[OMS](https://github.com/emmhald/open_metal_detector "OMS")                     
-* [AIWrhite](https://chat.openai.com/chat "openAI")                                               
+* [AIWrhite](https://chat.openai.com/chat "openAI")
+* [FindDiffusivity](https://openpnm.org/examples/applications/effective_diffusivity_and_tortuosity.html "openpnm")                         
  
 ## Database         
 * MOF database
@@ -85,23 +87,26 @@ redirect_from:
   * Chem-Structure[SMILES](http://www.chemexper.com/ "chem")                                     
   * [CCDC](https://www.ccdc.cam.ac.uk/ "CCDC")   
   * [Force field for Lammps](https://openkim.org/ "KimFF")                             
-* [Unit](https://www.colby.edu/chemistry/PChem/Hartree.html "energy")and[nist](http://wild.life.nctu.edu.tw/class/common/energy-unit-conv-table.html)   
+* [Unit](https://www.colby.edu/chemistry/PChem/Hartree.html "energy")and[nist](http://wild.life.nctu.edu.tw/class/common/energy-unit-conv-table.html)                
 * Journal      
   * [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=search "SCI")     
   * [scihub](https://tool.yovisun.com/scihub/ "scihub")  
   * [abbreviation](https://cassi.cas.org/search.jsp "scisx")     
   * [IF](https://jcr.clarivate.com/jcr/home?app=jcr&Init=Yes&authCode=null&SrcApp=IC2LS "JCR")                               
-  
+                       
 ## Study           
 * Machine learning
   * [Kaggle](https://www.kaggle.com/ "ML")
   * [weka](https://waikato.github.io/weka-wiki/ "weka")                       
-  * [googleML](https://developers.google.com/machine-learning/crash-course "googleML")       
+  * [googleML](https://developers.google.com/machine-learning/crash-course "googleML")
+  * [googleIntroduceAI](https://www.cloudskillsboost.google/course_templates/536)
+  * [MicrosoftAI](https://www.microsoft.com/en-us/research/blog/distributional-graphormer-toward-equilibrium-distribution-prediction-for-molecular-systems/)                                                                                    
   * [stanford](https://www.coursera.org/learn/machine-learning? "ML")             
   * [scikit-learn](https://scikit-learn.org/stable/index.html "DL")             
   * [Youtube](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html "ML")                          
   * [github](https://github.com/nndl "ML")
-  * adsorption[ML](https://ann20-aiche.ipostersessions.com/default.aspx?s=77-31-78-3F-38-F6-7E-22-83-07-0E-35-DF-70-41-E6 "ML")                         
+  * adsorption[ML](https://ann20-aiche.ipostersessions.com/default.aspx?s=77-31-78-3F-38-F6-7E-22-83-07-0E-35-DF-70-41-E6 "ML")
+  * [GNN](https://distill.pub/2021/gnn-intro/)                                                
 * [GROMACS](https://jerkwin.github.io/9999/10/31/GROMACS%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B/ "gmx")                                               
 * python             
   * [Figure](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/ "fig")  
@@ -109,8 +114,18 @@ redirect_from:
 * DFT                
   * [cp2k入门](https://www.cnblogs.com/Shine-JK/p/10988556.html "xiaobai")               
   * [cp2k google group](https://groups.google.com/g/cp2k "cp2k")
-  * [VASP-wiki](https://www.vasp.at/wiki/index.php/Category:VASP6 "VASP")                                                
+  * [VASP-wiki](https://www.vasp.at/wiki/index.php/Category:VASP6 "VASP")                                        
+  * [Gaussian](https://expchem3.com/)                           
+  * [GaussianError](https://docs.alliancecan.ca/wiki/Gaussian_error_messages)                                                     
 * [symmetry](http://xrayweb.chem.ou.edu/notes/symmetry.html#crystal "symmetry")       
 * [MOOC](https://www.icourse163.org/university/icourse/#/c "MOOC")                                
 * [LaTeX](https://www.tablesgenerator.com/latex_tables "LaTex")and[overleaf](https://www.overleaf.com/project# "latex")             
 * [news](https://www.enewsdispatch.com/ "enews") [Time](https://time.com/5943454/ "Time")                                          
+
+* [New bing](https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1)                                             
+* [Chatgpt](https://chat.openai.com/)
+* Math
+  * [Numerical Analysis](https://ocw.mit.edu/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/pages/calendar/)   
+
+*Linux
+  * [slurm](extension://bfdogplmndidlpjfhoijckpakkdjkkil/pdf/viewer.html?file=http%3A%2F%2Fhmli.ustc.edu.cn%2Fdoc%2Fuserguide%2Fslurm-userguide.pdf)                          
