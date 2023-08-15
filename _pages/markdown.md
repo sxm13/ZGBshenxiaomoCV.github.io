@@ -106,7 +106,8 @@ redirect_from:
   * [Youtube](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html "ML")                          
   * [github](https://github.com/nndl "ML")
   * adsorption[ML](https://ann20-aiche.ipostersessions.com/default.aspx?s=77-31-78-3F-38-F6-7E-22-83-07-0E-35-DF-70-41-E6 "ML")
-  * [GNN](https://distill.pub/2021/gnn-intro/)                                                
+  * [GNN](https://distill.pub/2021/gnn-intro/)                                                             
+  * [MLOps](https://github.com/visenger/awesome-mlops)                                                                                   
 * [GROMACS](https://jerkwin.github.io/9999/10/31/GROMACS%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B/ "gmx")                                               
 * python             
   * [Figure](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/ "fig")  
