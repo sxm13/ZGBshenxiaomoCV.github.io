@@ -209,9 +209,9 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: false
-      share: false
-      comment: false
+      author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:
