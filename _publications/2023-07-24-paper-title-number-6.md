@@ -1,7 +1,7 @@
 ---
 title: "Construction of Chimeric Metal−Organic Frameworks with Symmetry-Mismatched Building Blocks"
 collection: publications
-permalink: /publication/2023-07-24-paper-title-number-6.md
+permalink: /publication/2023-07-24-paper-title-number-6
 excerpt: 'This paper is about some new MOFs.'
 date: 2023-07-24
 venue: 'Chemistry of Materials'
