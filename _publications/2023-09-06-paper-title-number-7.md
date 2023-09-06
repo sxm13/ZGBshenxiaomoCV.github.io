@@ -10,7 +10,7 @@ citation: '>>Zhao Guobin<<, Yu Chen, Yongchul G. Chung. (2023). &quot;High-Throu
 ---
 This paper is about some new MOFs.
 
-[Download paper here](https://github.com/sxm13/ZGBshenxiaomoCV.github.io/blob/main/files/Constructionof%20ChimericMetal%E2%88%92OrganicFrameworkswithSymmetry-MismatchedBuildingBlocks.pdf)
+[Download paper here](https://github.com/sxm13/ZGBshenxiaomoCV.github.io/blob/main/files/High-Throughput%2C%20Multiscale%20Computational%20Screening%20of%20Metal%E2%80%93Organic%20Frameworks%20for%20XeKr%20Separation%20with%20Machine-Learned%20Parameters.pdf)
 
 Recommended citation: '>>Zhao Guobin<<, Yu Chen, Yongchul G. Chung. (2023). &quot;High-Throughput, Multiscale Computational Screening of Metal–Organic Frameworks for Xe/Kr Separation with Machine-Learned Parameters.&quot; <i>Industrial & Engineering Chemistry Research</i>.'
 
