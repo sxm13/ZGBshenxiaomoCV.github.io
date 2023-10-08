@@ -92,7 +92,9 @@ redirect_from:
   * [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=search "SCI")     
   * [scihub](https://tool.yovisun.com/scihub/ "scihub")  
   * [abbreviation](https://cassi.cas.org/search.jsp "scisx")     
-  * [IF](https://jcr.clarivate.com/jcr/home?app=jcr&Init=Yes&authCode=null&SrcApp=IC2LS "JCR")                               
+  * [IF](https://jcr.clarivate.com/jcr/home?app=jcr&Init=Yes&authCode=null&SrcApp=IC2LS "JCR")
+* [topology](http://rcsr.anu.edu.au/nets)
+* [periodic table](https://ptable.com/#%E6%80%A7%E8%B4%A8)                                                   
                        
 ## Study           
 * Machine learning
@@ -122,7 +124,10 @@ redirect_from:
 * [MOOC](https://www.icourse163.org/university/icourse/#/c "MOOC")                                
 * [LaTeX](https://www.tablesgenerator.com/latex_tables "LaTex")and[overleaf](https://www.overleaf.com/project# "latex")             
 * [news](https://www.enewsdispatch.com/ "enews") [Time](https://time.com/5943454/ "Time")                                          
-
+* [excelbycode](https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439)
+* matlab
+  * [GUI](https://matlabacademy.mathworks.com/kr/details/app-building-onramp/orab)
+* [gnuplot](http://lowrank.net/gnuplot/index-e.html)                                                              
 * [New bing](https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1)                                             
 * [Chatgpt](https://chat.openai.com/)
 * Math
