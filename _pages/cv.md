@@ -72,10 +72,7 @@ Research
   优秀本科毕业论文                                                                                    
   
 Service and leadership
-======
-### 郑青榕教授                                 
-福建省船舶与海洋工程实验室[新能源组](http://mei.jmu.edu.cn/info/1070/1126.htm "1")。        
-
+======      
 ### Prof. Chung Yongchul G.                                   
 Molecular Thermodynamics and Advanced Processes Laboratory [website1](https://cmcp-group.github.io/ "2") and [website2](https://sites.google.com/view/mtap-lab)。            
 **join us**: sxmzhaogb@gmail.com                      
