@@ -30,7 +30,8 @@ redirect_from:
   * py[window](https://github.com/JelfsMaterialsGroup/pywindow "pywindow")    
   * [pygaps](https://github.com/pauliacomi/pygaps "PSD")                           
   * [SAIEUS](http://www.nldft.com/download/ "nldft")
-  * [PROMAKE](https://github.com/sxm13/PORMAKE)                                                      
+  * [PROMAKE](https://github.com/sxm13/PORMAKE)
+  * [pyCOFbulider](https://github.com/sxm13/pyCOFBuilder)                                         
   * [SESAMI-app](https://sesami-web.org/ "bet")                                        
 * Charge
   * [DDEC](https://sourceforge.net/projects/ddec/ "DDEC")              
