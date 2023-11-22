@@ -61,7 +61,8 @@ redirect_from:
 * Pto[f](https://github.com/sxm13/ZGBshenxiaomoCV.github.io/tree/main/files/fugacity "f")                                   
 * OMS[check](https://github.com/kjappelbaum/mofchecker "mofchecker")和[OMS](https://github.com/emmhald/open_metal_detector "OMS")                     
 * [AIWrhite](https://chat.openai.com/chat "openAI")
-* [FindDiffusivity](https://openpnm.org/examples/applications/effective_diffusivity_and_tortuosity.html "openpnm")                         
+* [FindDiffusivity](https://openpnm.org/examples/applications/effective_diffusivity_and_tortuosity.html "openpnm")
+* [download book](https://libgen.is/)                                                          
  
 ## Database         
 * MOF database
@@ -138,8 +139,7 @@ redirect_from:
 * [New bing](https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1)                                             
 * [Chatgpt](https://chat.openai.com/)
 * Math
-  * [Numerical Analysis](https://ocw.mit.edu/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/pages/calendar/)   
-
+  * [Numerical Analysis](https://ocw.mit.edu/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/pages/calendar/)      
 * Linux                                  
   * [slurm](extension://bfdogplmndidlpjfhoijckpakkdjkkil/pdf/viewer.html?file=http%3A%2F%2Fhmli.ustc.edu.cn%2Fdoc%2Fuserguide%2Fslurm-userguide.pdf)           
                                                                                                  
