@@ -88,7 +88,8 @@ redirect_from:
   * Chem-Structure[SMILES](http://www.chemexper.com/ "chem")                                     
   * [CCDC](https://www.ccdc.cam.ac.uk/ "CCDC")   
   * [Force field for Lammps](https://openkim.org/ "KimFF")                             
-* [Unit](https://www.colby.edu/chemistry/PChem/Hartree.html "energy")and[nist](http://wild.life.nctu.edu.tw/class/common/energy-unit-conv-table.html)                
+* [Unit](https://www.colby.edu/chemistry/PChem/Hartree.html "energy")and[nist](http://wild.life.nctu.edu.tw/class/common/energy-unit-conv-table.html)
+* [Henry Law](https://www.henrys-law.org/henry/)                                                          
 * Journal      
   * [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=search "SCI")     
   * [scihub](https://tool.yovisun.com/scihub/ "scihub")  
