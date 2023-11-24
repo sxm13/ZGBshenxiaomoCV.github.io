@@ -10,7 +10,8 @@ redirect_from:
 ## Software          
 * python
   * [Anaconda](https://www.anaconda.com/)
-  * [pycharm](https://www.jetbrains.com/pycharm/)                                  
+  * [pycharm](https://www.jetbrains.com/pycharm/)
+  * [VScode](https://code.visualstudio.com/)                                               
   * [IDLE](https://www.python.org/)   
   * [pyenv](https://github.com/pyenv/pyenv)                                      
   * [git](https://git-scm.com/ "git")                        
