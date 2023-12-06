@@ -47,7 +47,7 @@ redirect_from:
   * [pyIAST](https://github.com/CorySimon/pyIAST/)            
   * [IAST++](https://sangwon91.github.io/IASTpp/)      
   * [gaIAST](https://github.com/salrodgom/gaiast)              
-* Vis
+* Visualization             
   * [VMD](https://www.ks.uiuc.edu/Research/vmd/)      
   * [VESTA](https://jp-minerals.org/vesta/en/)  
   * [iRASPA](https://iraspa.org/)                  
@@ -100,6 +100,7 @@ redirect_from:
   * [scihub](https://tool.yovisun.com/scihub/)  
   * [abbreviation](https://cassi.cas.org/search.jsp)     
   * [IF](https://jcr.clarivate.com/jcr/home?app=jcr&Init=Yes&authCode=null&SrcApp=IC2LS)
+  * [scidown](https://www.scidown.cn/)                               
 * [topology](http://rcsr.anu.edu.au/nets)
 * [periodic table](https://ptable.com/#%E6%80%A7%E8%B4%A8)
 * [materials square](https://www.materialssquare.com/blog?category=simulation-tip&language=en)          
