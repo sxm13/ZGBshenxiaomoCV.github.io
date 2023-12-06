@@ -146,5 +146,6 @@ redirect_from:
   * [Numerical Analysis](https://ocw.mit.edu/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/pages/calendar/)      
 * Linux                                  
   * [slurm](extension://bfdogplmndidlpjfhoijckpakkdjkkil/pdf/viewer.html?file=http%3A%2F%2Fhmli.ustc.edu.cn%2Fdoc%2Fuserguide%2Fslurm-userguide.pdf)
-* [marker down emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)                           
+* [markdown emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
+* [Animated Icons](https://www.flaticon.com/animated-icons)                                
                                                                                                  
