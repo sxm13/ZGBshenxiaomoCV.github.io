@@ -124,7 +124,7 @@ redirect_from:
   * [cheet](https://github.com/matplotlib/cheatsheets)
   * [ODE](https://ulissigroup.cheme.cmu.edu/F22-06-325/intro.html)                                             
 * DFT                
-  * [cp2k入门](https://www.cnblogs.com/Shine-JK/p/10988556.html)               
+  * [cp2k quick start](https://www.cnblogs.com/Shine-JK/p/10988556.html)               
   * [cp2k google group](https://groups.google.com/g/cp2k)
   * [VASP-wiki](https://www.vasp.at/wiki/index.php/Category:VASP6)                                        
   * [Gaussian](https://expchem3.com/)                           
