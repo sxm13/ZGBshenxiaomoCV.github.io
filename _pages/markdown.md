@@ -60,11 +60,7 @@ redirect_from:
   * [cclib](https://cclib.github.io/ "cclib")  
   * [pymatflow](https://pymatflow.readthedocs.io/en/latest/index.html)
 * MOF-Force field
-  * DFT[FF](https://github.com/molmod/QuickFF) 
-* Read             
-  * [PDF](https://www.zhengbanxianmian.com/iStylePDF.html)                            
-  * [CAJ](https://cajviewer.cnki.net/)                      
-  * [STDU](https://stdu-viewer.en.softonic.com/)                     
+  * DFT[FF](https://github.com/molmod/QuickFF)          
 * disorder[disorder](https://github.com/jichunlian/disorder)       
 * Pto[f](https://github.com/sxm13/ZGBshenxiaomoCV.github.io/tree/main/files/fugacity)                          
 * OMS[check](https://github.com/kjappelbaum/mofchecker)和[OMS](https://github.com/emmhald/open_metal_detector)                     
@@ -76,12 +72,12 @@ redirect_from:
 * MOF database
   * [CoRE MOF](https://zenodo.org/record/3677685#.X8uDkrniuUl)                          
   * [QMOF](https://github.com/arosen93/QMOF)
-  * [scieMOF](https://globalscience.berkeley.edu/database)                   
+  * [RCNNMOF](https://globalscience.berkeley.edu/database)                   
   * [tobacco](https://github.com/tobacco-mofs/tobacco_3.0)     
-* COF database
-  * Number[COF](https://github.com/danieleongari/CURATED-COFs)                 
-  * Ori[COF](https://github.com/core-cof/CoRE-COF-Database)                          
-  * DDEC[COF](https://www.materialscloud.org/discover/curated-cofs#mcloudHeader)                       
+* COF database                                           
+  * [CURATED COF](https://github.com/danieleongari/CURATED-COFs)                 
+  * [CoRE COF](https://github.com/core-cof/CoRE-COF-Database)                          
+  * [DDEC COF](https://www.materialscloud.org/discover/curated-cofs#mcloudHeader)                       
 * [porous](https://github.com/SimonEnsemble/porous-material-AI-gym)                                
 * [NIST Adsorption Data](https://adsorption.nist.gov/index.php#home)    
 * [HUB](https://datahub.hymarc.org/dataset)                                  
