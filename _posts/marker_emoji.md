@@ -1,3 +1,11 @@
+---
+title: 'marker emojis'
+date: 2023-12-12
+permalink: /posts/2023/12/blog-post-1/
+tags:
+  - cute emojis
+---
+
 People
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
