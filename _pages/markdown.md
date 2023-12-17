@@ -17,7 +17,8 @@ redirect_from:
   * [git](https://git-scm.com/ "git")                        
   * [docker](https://www.docker.com/)                            
 * GCMC adsorption and separation
-  * [RASPA2](https://github.com/iRASPA/RASPA2)             
+  * [RASPA2](https://github.com/iRASPA/RASPA2)
+  * [RASPA2 Tools](https://github.com/haoyuanchen/RASPA-tools/tree/master)                             
 * MD
   * [Lammps](https://lammps.sandia.gov/)                                                             
   * [Lammps-interface](https://github.com/peteboyd/lammps_interface/)        
@@ -58,7 +59,16 @@ redirect_from:
   * [pymatgen](https://pymatgen.org/)。                  
   * [xtb](https://xtb-docs.readthedocs.io/en/latest/contents.html)                  
   * [cclib](https://cclib.github.io/ "cclib")  
-  * [pymatflow](https://pymatflow.readthedocs.io/en/latest/index.html)                                                     
+  * [pymatflow](https://pymatflow.readthedocs.io/en/latest/index.html)
+  * [SELFIES](https://selfiesv2.readthedocs.io/en/latest/tutorial.html#The-Basics)
+  * [DL](https://matbench-discovery.materialsproject.org/models)                                                         
+  * [MP](https://contribs.materialsproject.org/)                                 
+* API
+  * [Springer, Xml](https://dev.springernature.com/)
+  * [Wiley, PDF](https://onlinelibrary.wiley.com/library-info/resources/text-and-datamining)
+  * [Elsevier, Xml](https://dev.elsevier.com/)
+  * [RSC, Html](https://developer.rsc.org/create-an-api-key)
+  * [ACS, Xml](https://www.acs.org/events/all-events/rapid-delivery-of-api-enables-accelerated-ind-application-challenges-and-solutions.html)                   
 * [disorder](https://github.com/jichunlian/disorder)       
 * [Ptof](https://github.com/sxm13/ZGBshenxiaomoCV.github.io/tree/main/files/fugacity)                          
 * [OMScheck](https://github.com/kjappelbaum/mofchecker)和[OMS](https://github.com/emmhald/open_metal_detector)             
@@ -115,7 +125,7 @@ redirect_from:
   * [weka](https://waikato.github.io/weka-wiki/)                       
   * [googleML](https://developers.google.com/machine-learning/crash-course)
   * [googleIntroduceAI](https://www.cloudskillsboost.google/course_templates/536)
-  * [MicrosoftAI](https://www.microsoft.com/en-us/research/blog/distributional-graphormer-toward-equilibrium-distribution-prediction-for-molecular-systems/)                
+  * [MicrosoftAI](https://www.microsoft.com/en-us/research/blog/distributional-graphormer-toward-equilibrium-distribution-prediction-for-molecular-systems/)    
   * [stanford](https://www.coursera.org/learn/machine-learning?)             
   * [scikit-learn](https://scikit-learn.org/stable/index.html)             
   * [Youtube](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)                          
