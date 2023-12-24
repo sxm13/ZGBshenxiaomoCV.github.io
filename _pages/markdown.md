@@ -135,7 +135,8 @@ redirect_from:
   * [GNN](https://distill.pub/2021/gnn-intro/)                                                             
   * [MLOps](https://github.com/visenger/awesome-mlops)
   * [understanding deep learning](https://udlbook.github.io/udlbook/)
-  * [DGL](https://docs.dgl.ai/guide_cn/graph-feature.html)                                                    
+  * [DGL](https://docs.dgl.ai/guide_cn/graph-feature.html)
+  * [50Fig](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)                                    
 * [GROMACS](https://jerkwin.github.io/9999/10/31/GROMACS%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B/)                 
 * python             
   * [Figure](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)  
