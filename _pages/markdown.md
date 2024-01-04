@@ -22,7 +22,8 @@ redirect_from:
 * MD
   * [Lammps](https://lammps.sandia.gov/)                                                             
   * [Lammps-interface](https://github.com/peteboyd/lammps_interface/)        
-  * [GROMACS](http://www.gromacs.org/)
+  * [GROMACS](http://www.gromacs.org/)             
+  * [packmol](https://m3g.github.io/packmol/)        
 * DFT
   * [cp2k](https://www.cp2k.org/ "cp2k")and[cp2k-editor](https://github.com/avishart/CP2K_Editor/)          
   * [ORCA](https://orcaforum.kofo.mpg.de/app.php/portal)      
