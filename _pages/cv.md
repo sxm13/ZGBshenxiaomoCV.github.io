@@ -38,7 +38,8 @@ Molecular Thermodynamics and Advanced Processes Laboratory [web](https://sites.g
 * [CoRE MOF Database 2019](https://zenodo.org/records/3677685#.XzqXbZMzY8M)                                                      
 * [BET calculation and prediction](https://sesami-web.org/)                                           
 * [Xe/Kr separation project](https://github.com/sxm13/Xe-Kr-Separation-Project)
-* [GWP machine learning](https://github.com/sxm13/GWP-project) and [web](https://gwp-web-mtap-pnu.streamlit.app/)                                              
+* [GWP machine learning](https://github.com/sxm13/GWP-project) and [web](https://gwp-web-mtap-pnu.streamlit.app/)
+* [MOF/COF Charge Predicter](https://github.com/sxm13/GCNCharges) and [web](https://gcn-charge-predicter-mtap.streamlit.app/)                                      
 * [H2-COF-functionalization](https://github.com/sxm13/H2-COF-functionalization)                     
 * [BreakLab]()                                     
 
