@@ -120,8 +120,11 @@ redirect_from:
 * [web4findtopo](https://progs.coudert.name/topology)                                                          
 * [periodic table](https://ptable.com/#%E6%80%A7%E8%B4%A8)
 * [materials square](https://www.materialssquare.com/blog?category=simulation-tip&language=en)
-* [pyAPEP](https://github.com/sebyga/pyAPEP)                                       
-                       
+* [pyAPEP](https://github.com/sebyga/pyAPEP)
+* Workflow slides
+  * [SlideModel](https://slidemodel.com/)
+  * [smartsheet](https://www.smartsheet.com/content/powerpoint-workflow-template)
+  * [SlideTeam](https://www.slideteam.net/blog/top-11-powerpoint-workflow-templates-with-examples-and-samples)                                                   
 ## Study           
 * Machine learning
   * [Kaggle](https://www.kaggle.com/)
