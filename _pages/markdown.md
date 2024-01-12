@@ -45,7 +45,10 @@ redirect_from:
   * [EQeq](https://github.com/numat/EQeq)
   * [EQeq+C](https://pubs.acs.org/doi/10.1021/acs.jctc.5b00037)
   * [m-CBAC](https://pubs.acs.org/doi/10.1021/acs.jpcc.0c01524)
-  * [REPEAT](https://github.com/uowoolab/REPEAT-Assigner)                              
+  * [REPEAT](https://github.com/uowoolab/REPEAT-Assigner)
+* Deep4MOF
+  * [CHGNet](https://github.com/CederGroupHub/chgnet)                                
+  * [MACE](https://mace-docs.readthedocs.io/en/latest/guide/training.html#data-keys)                  
 * Fit
   * [pyIAST](https://github.com/CorySimon/pyIAST/)            
   * [IAST++](https://sangwon91.github.io/IASTpp/)      
