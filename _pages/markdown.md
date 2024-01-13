@@ -145,8 +145,7 @@ redirect_from:
   * [MLOps](https://github.com/visenger/awesome-mlops)
   * [understanding deep learning](https://udlbook.github.io/udlbook/)
   * [DGL](https://docs.dgl.ai/guide_cn/graph-feature.html)
-  * [50Fig](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-
-  * python/)
+  * [50Fig](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)                                                                           
   * [porousAI](https://github.com/SimonEnsemble/porous-material-AI-gym?tab=readme-ov-file#construct-your-own-crystal-structures)                                                     
 * [GROMACS](https://jerkwin.github.io/9999/10/31/GROMACS%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B/)                 
 * python             
