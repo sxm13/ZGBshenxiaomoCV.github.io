@@ -57,7 +57,8 @@ redirect_from:
   * [VMD](https://www.ks.uiuc.edu/Research/vmd/)      
   * [VESTA](https://jp-minerals.org/vesta/en/)  
   * [iRASPA](https://iraspa.org/)                  
-  * [vislt](https://wci.llnl.gov/simulation/computer-codes/visit/executables)                                  
+  * [vislt](https://wci.llnl.gov/simulation/computer-codes/visit/executables)
+  * [playmolecule](https://open.playmolecule.org/)                                         
   * [gnuplot](http://lowrank.net/gnuplot/index-e.html)                                                 
 * Workflow Softwares     
   * [ASE](https://wiki.fysik.dtu.dk/ase/index.html)                  
