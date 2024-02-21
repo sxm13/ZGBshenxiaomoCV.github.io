@@ -60,7 +60,8 @@ redirect_from:
   * [vislt](https://wci.llnl.gov/simulation/computer-codes/visit/executables)
   * [playmolecule](https://open.playmolecule.org/)                                         
   * [gnuplot](http://lowrank.net/gnuplot/index-e.html)
-  * structure[convert](https://www.cheminfo.org/Chemistry/Cheminformatics/FormatConverter/index.html)    
+  * structure[convert](https://www.cheminfo.org/Chemistry/Cheminformatics/FormatConverter/index.html)
+  * [pyCOSMOS](https://github.com/shivamrkparashar/pyCOSMOS)                                             
                                                         
 * Workflow Softwares     
   * [ASE](https://wiki.fysik.dtu.dk/ase/index.html)                  
