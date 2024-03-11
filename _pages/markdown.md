@@ -146,6 +146,7 @@ redirect_from:
   * [github](https://github.com/nndl)
   * [adsorptionML](https://ann20-aiche.ipostersessions.com/default.aspx?s=77-31-78-3F-38-F6-7E-22-83-07-0E-35-DF-70-41-E6)
   * [GNN](https://distill.pub/2021/gnn-intro/)
+  * GNN[paper](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00018h)                                         
   * [GCN](https://towardsdatascience.com/building-a-graph-convolutional-network-for-molecular-property-prediction-978b0ae10ec4)                                                
   * [MLOps](https://github.com/visenger/awesome-mlops)
   * [understanding deep learning](https://udlbook.github.io/udlbook/)
