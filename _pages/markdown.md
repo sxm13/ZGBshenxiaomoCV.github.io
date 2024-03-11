@@ -15,7 +15,8 @@ redirect_from:
   * [IDLE](https://www.python.org/)   
   * [pyenv](https://github.com/pyenv/pyenv)                                      
   * [git](https://git-scm.com/ "git")                        
-  * [docker](https://www.docker.com/)                            
+  * [docker](https://www.docker.com/)
+  * [Bayesian optimisation](https://github.com/dragonfly/dragonfly)                                       
 * GCMC adsorption and separation
   * [RASPA2](https://github.com/iRASPA/RASPA2)
   * [RASPA2 Tools](https://github.com/haoyuanchen/RASPA-tools/tree/master)                             
