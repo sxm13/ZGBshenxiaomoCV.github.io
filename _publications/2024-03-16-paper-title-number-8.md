@@ -1,16 +1,16 @@
 ---
-title: "High-Throughput, Multiscale Computational Screening of Metal–Organic Frameworks for Xe/Kr Separation with Machine-Learned Parameters"
+title: "Leveraging Machine Learning To Predict the Atmospheric Lifetime and the Global Warming Potential of SF6 Replacement Gases"
 collection: publications
-permalink: /publication/2023-09-06-paper-title-number-7
+permalink: /publication/2024-03-16-paper-title-number-8
 excerpt: 'This paper is about some Xe/Kr separation.'
-date: 2023-07-24
-venue: 'Industrial & Engineering Chemistry Research'
+date: 2024-03-14
+venue: 'The Journal of Physical Chemistry A'
 paperurl: ''
-citation: '>>Zhao Guobin<<, Yu Chen, Yongchul G. Chung. (2023). &quot;High-Throughput, Multiscale Computational Screening of Metal–Organic Frameworks for Xe/Kr Separation with Machine-Learned Parameters.&quot; <i>Industrial & Engineering Chemistry Research</i>.'
+citation: '>>Zhao Guobin<<, Haewon Kim, Changwon Yang, and Yongchul G. Chung. (2024). &quot;Leveraging Machine Learning To Predict the Atmospheric Lifetime and the Global Warming Potential of SF6 Replacement Gases.&quot; <i>The Journal of Physical Chemistry A Article ASAP</i>.'
 ---
-This paper is about Xe/Kr separation using MOFs by GCMC, Machine learning, Ideal VSA, High fidelity VSA.
+This paper is about machine learning for finding Low GWP gas to replace SF6.
 
-[Download paper here](https://github.com/sxm13/ZGBshenxiaomoCV.github.io/blob/main/files/High-Throughput%2C%20Multiscale%20Computational%20Screening%20of%20Metal%E2%80%93Organic%20Frameworks%20for%20XeKr%20Separation%20with%20Machine-Learned%20Parameters.pdf)
+[Download paper here](https://pubs.acs.org/doi/full/10.1021/acs.jpca.3c07339)
 
-Recommended citation: '>>Zhao Guobin<<, Yu Chen, Yongchul G. Chung. (2023). &quot;High-Throughput, Multiscale Computational Screening of Metal–Organic Frameworks for Xe/Kr Separation with Machine-Learned Parameters.&quot; <i>Industrial & Engineering Chemistry Research</i>.'
+Recommended citation: '>>Zhao Guobin<<, Haewon Kim, Changwon Yang, and Yongchul G. Chung. (2024). &quot;Leveraging Machine Learning To Predict the Atmospheric Lifetime and the Global Warming Potential of SF6 Replacement Gases.&quot; <i>The Journal of Physical Chemistry A</i>.'
 
