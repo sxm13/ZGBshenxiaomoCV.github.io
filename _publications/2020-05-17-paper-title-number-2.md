@@ -10,6 +10,6 @@ citation: '>>Guobin Zhao<<, Qingrong Zheng, Xuan Zhang, Weidong Zhang. (2020). &
 ---
 This paper is about the Methane adsorption on MOF and Activated carbon.
 
-[Download paper here](https://github.com/sxm13/ZGBshenxiaomoCV.github.io/blob/main/files/Adsorption%20equilibrium%20and%20the%20effect%20of%20honeycomb%20heat%20exchanging.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S1004954120302111)
 
 Recommended citation: Your Name, You. (2020). "Adsorption equilibrium and the effect of honeycomb heat exchanging device on charge/discharge characteristic of methane on MIL-101(Cr) and activated carbon." <i>CHINESE JOURNAL OF CHEMICAL ENGINEERING</i>. 28(7).
