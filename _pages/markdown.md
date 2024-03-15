@@ -29,7 +29,9 @@ redirect_from:
   * [cp2k](https://www.cp2k.org/ "cp2k")and[cp2k-editor](https://github.com/avishart/CP2K_Editor/)          
   * [ORCA](https://orcaforum.kofo.mpg.de/app.php/portal)      
   * [QE](https://www.quantum-espresso.org/)and[qeinput](https://www.materialscloud.org/work/tools/qeinputgenerator)
-  * [vasptool](https://theory.cm.utexas.edu/vtsttools/index.html)                                                            
+  * [vasptool](https://theory.cm.utexas.edu/vtsttools/index.html)                                                           * R Markdown
+  * [posterdown](https://github.com/brentthorne/posterdown?tab=readme-ov-file#getting-started)
+  * [docposter](https://github.com/bbucior/docposter/tree/main?tab=readme-ov-file)                       
 * Nanoporous
   * [zeo++](http://www.zeoplusplus.org/) and [pygaps](https://pygaps.readthedocs.io/en/master/)          
   * [MOFexplorer](http://mausdin.github.io/MOFsite/mofPage.html)   
