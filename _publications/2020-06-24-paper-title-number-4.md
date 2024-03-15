@@ -10,6 +10,6 @@ citation: 'ZhangXuan, Zheng Qingrong, >>Zhao Guobin<<, Zhang Weidong. (2020). &q
 ---
 This paper is about H2 adsorption on MOF at 77K.
 
-[Download paper here](https://github.com/sxm13/ZGBshenxiaomoCV.github.io/blob/main/files/Adsorption%20equilibrium%20and%20charge%20discharge%20characteristics%20of%20hydrogen%20on%20MOFs.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0011227520301235)
 
 Recommended citation: ZhangXuan, Zheng Qingrong, >>Zhao Guobin<<, Zhang Weidong. (2020). "Adsorption equilibrium and charge/discharge characteristics of hydrogen on MOFs." <i>Cryogenics</i>. 112.
