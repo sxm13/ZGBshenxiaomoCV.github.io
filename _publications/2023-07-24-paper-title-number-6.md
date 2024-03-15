@@ -10,7 +10,7 @@ citation: 'Seungwan Han, ..., >>Zhao Guobin<<, ..., Yongchul G. Chung, Myoung So
 ---
 This paper is about some new MOFs.
 
-[Download paper here](https://github.com/sxm13/ZGBshenxiaomoCV.github.io/blob/main/files/Constructionof%20ChimericMetal%E2%88%92OrganicFrameworkswithSymmetry-MismatchedBuildingBlocks.pdf)
+[Download paper here](https://pubs.acs.org/doi/10.1021/acs.chemmater.3c00694)
 
 Recommended citation: 'Seungwan Han, ..., >>Zhao Guobin<<, ..., Yongchul G. Chung, Myoung Soo Lah. (2023). "Construction of Chimeric Metal−Organic Frameworks with Symmetry-Mismatched Building Blocks." <i>Chemistry of Materials</i>. 35.
 
