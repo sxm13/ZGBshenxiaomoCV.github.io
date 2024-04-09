@@ -137,7 +137,9 @@ redirect_from:
 * Workflow slides
   * [SlideModel](https://slidemodel.com/)
   * [smartsheet](https://www.smartsheet.com/content/powerpoint-workflow-template)
-  * [SlideTeam](https://www.slideteam.net/blog/top-11-powerpoint-workflow-templates-with-examples-and-samples)                                                   
+  * [SlideTeam](https://www.slideteam.net/blog/top-11-powerpoint-workflow-templates-with-examples-and-samples)
+* [openalex](https://openalex.org/)                                               
+                                         
 ## Study           
 * Machine learning
   * [Kaggle](https://www.kaggle.com/)
