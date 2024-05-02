@@ -63,7 +63,7 @@ redirect_from:
   * [iRASPA](https://iraspa.org/)                  
   * [vislt](https://wci.llnl.gov/simulation/computer-codes/visit/executables)
   * [playmolecule](https://open.playmolecule.org/)                                         
-  * [gnuplot](http://lowrank.net/gnuplot/index-e.html)
+  * [gnuplot](http://lowrank.net/gnuplot/index-e.html) and [homepage](http://www.gnuplot.info/)                               
   * structure[convert](https://www.cheminfo.org/Chemistry/Cheminformatics/FormatConverter/index.html)
   * [pyCOSMOS](https://github.com/shivamrkparashar/pyCOSMOS)                                             
                                                         
