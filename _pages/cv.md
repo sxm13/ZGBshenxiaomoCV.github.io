@@ -30,7 +30,7 @@ Research
 Service and leadership
 ======      
 ### Prof. Chung Yongchul G.                                   
-Molecular Thermodynamics and Advanced Processes Laboratory [web](https://sites.google.com/view/mtap-lab)                                   
+[Molecular Thermodynamics and Advanced Processes Laboratory](https://sites.google.com/view/mtap-lab)                                   
 
 ### Software                         
 
