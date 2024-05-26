@@ -9,8 +9,6 @@ redirect_from:
 
 Education
 ======
-* B.S. in Zhejiang Zhoushan. Zhejiang Ocean University. Marine Engineering(Ship Building and Repairi). 2014-2018.
-* M.S. in Fujian Xiamen. Jimei University. Naval Architecture and Ocean Engineering. 2018-2020.
 * Ph.D in Korean Pusan. Pusan National University. School of chemical engineering. 2020-Now.
                                                
          
