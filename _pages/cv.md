@@ -37,11 +37,14 @@ Molecular Thermodynamics and Advanced Processes Laboratory [web](https://sites.g
 * [BreakLab]() 
 
 ### Software                      
-* [CoRE MOF Database 2024](https://github.com/sxm13/CoRE-MOF-2024)                                                
-* [Xe/Kr separation project](https://github.com/sxm13/Xe-Kr-Separation-Project)
-* [GWP machine learning](https://github.com/sxm13/GWP-project) and [web](https://gwp-web-mtap-pnu.streamlit.app/)
-* [PACMAN-MOF/COF Charge Predicter](https://github.com/sxm13/PACMAN) and [web](https://pacman-mtap.streamlit.app/)                                      
-* [H2-COF-functionalization](https://github.com/sxm13/H2-COF-functionalization)                                    
+*  Public                           
+  *  [Xe/Kr separation project](https://github.com/sxm13/Xe-Kr-Separation-Project)
+  *  [GWP machine learning](https://github.com/sxm13/GWP-project) and [web](https://gwp-web-mtap-pnu.streamlit.app/)
+  *  [PACMAN-Charge Predicter](https://github.com/mtap-research/PACMAN-charge) and [app](https://pacman-charge-mtap.streamlit.app/)
+                                                                            
+*  Private                              
+  *  [H2-COF-functionalization](https://github.com/sxm13/H2-COF-functionalization)                     
+  *  [CoRE MOF Database 2024](https://github.com/sxm13/CoRE-MOF-2024)                                                   
                                                                   
                                                    
 **join us**: sxmzhaogb@gmail.com                      
