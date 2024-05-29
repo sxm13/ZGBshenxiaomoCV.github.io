@@ -130,7 +130,7 @@ redirect_from:
   * [scidown](https://www.scidown.cn/)                               
 * [topology](http://rcsr.anu.edu.au/nets)
 * [web4findtopo](https://progs.coudert.name/topology)                                                          
-* [periodic table](https://ptable.com/#%E6%80%A7%E8%B4%A8)
+* [periodic table](https://pubchem.ncbi.nlm.nih.gov/periodic-table/)
 * [materials square](https://www.materialssquare.com/blog?category=simulation-tip&language=en)
 * [pyAPEP](https://github.com/sebyga/pyAPEP)
 * DFT-based [CCCBDB](https://cccbdb.nist.gov/introx.asp)                                   
