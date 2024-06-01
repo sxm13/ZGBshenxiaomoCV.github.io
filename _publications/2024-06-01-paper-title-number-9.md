@@ -1,16 +1,16 @@
 ---
-title: "Leveraging Machine Learning To Predict the Atmospheric Lifetime and the Global Warming Potential of SF6 Replacement Gases"
+title: "PACMAN: A Robust Partial Atomic Charge Predicter for Nanoporous Materials Based on Crystal Graph Convolution Networks"
 collection: publications
-permalink: /publication/2024-03-16-paper-title-number-8
-excerpt: 'This paper is about machine learning in GWP.'
-date: 2024-03-14
-venue: 'The Journal of Physical Chemistry A'
+permalink: /publication/2024-06-01-paper-title-number-9
+excerpt: 'This paper is about charges prediction for MOFS adn COFs.'
+date: 2024-06-01
+venue: 'Journal of Chemical Theory and Computation'
 paperurl: ''
-citation: '>>Zhao Guobin<<, Haewon Kim, Changwon Yang, and Yongchul G. Chung. (2024). &quot;Leveraging Machine Learning To Predict the Atmospheric Lifetime and the Global Warming Potential of SF6 Replacement Gases.&quot; <i>The Journal of Physical Chemistry A Article ASAP</i>.'
+citation: '>>Zhao Guobin<<, Yongchul G. Chung. (2024). &quot;PACMAN: A Robust Partial Atomic Charge Predicter for Nanoporous Materials Based on Crystal Graph Convolution Networks.&quot; <i>Journal of Chemical Theory and Computation</i>.'
 ---
-This paper is about machine learning for finding Low GWP gas to replace SF6.
+This paper is about charges prediction for MOFS adn COFs
 
-[Download paper here](https://pubs.acs.org/doi/full/10.1021/acs.jpca.3c07339)
+[Download paper here](https://pubs.acs.org/doi/10.1021/acs.jctc.4c00434)
 
-Recommended citation: '>>Zhao Guobin<<, Haewon Kim, Changwon Yang, and Yongchul G. Chung. (2024). &quot;Leveraging Machine Learning To Predict the Atmospheric Lifetime and the Global Warming Potential of SF6 Replacement Gases.&quot; <i>The Journal of Physical Chemistry A</i>.'
+Recommended citation: '>>Zhao Guobin<<, Haewon Kim, Changwon Yang, and Yongchul G. Chung. (2024). &quot;PACMAN: A Robust Partial Atomic Charge Predicter for Nanoporous Materials Based on Crystal Graph Convolution Networks.&quot; <i>Journal of Chemical Theory and Computation</i>.'
 
