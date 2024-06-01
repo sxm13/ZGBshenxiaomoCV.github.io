@@ -12,5 +12,5 @@ This paper is about charges prediction for MOFS adn COFs
 
 [Download paper here](https://pubs.acs.org/doi/10.1021/acs.jctc.4c00434)
 
-Recommended citation: '>>Zhao Guobin<<, Haewon Kim, Changwon Yang, and Yongchul G. Chung. (2024). &quot;PACMAN: A Robust Partial Atomic Charge Predicter for Nanoporous Materials Based on Crystal Graph Convolution Networks.&quot; <i>Journal of Chemical Theory and Computation</i>.'
+Recommended citation: '>>Zhao Guobin<<, and Yongchul G. Chung. (2024). &quot;PACMAN: A Robust Partial Atomic Charge Predicter for Nanoporous Materials Based on Crystal Graph Convolution Networks.&quot; <i>Journal of Chemical Theory and Computation</i>.'
 
