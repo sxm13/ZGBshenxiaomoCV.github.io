@@ -130,5 +130,6 @@ redirect_from:
 * Linux                                  
   * [slurm](extension://bfdogplmndidlpjfhoijckpakkdjkkil/pdf/viewer.html?file=http%3A%2F%2Fhmli.ustc.edu.cn%2Fdoc%2Fuserguide%2Fslurm-userguide.pdf)
 * [markdown emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
-* [Animated Icons](https://www.flaticon.com/animated-icons)                                                         * [AI Picture](https://ideogram.ai/)                   
+* [Animated Icons](https://www.flaticon.com/animated-icons)
+* [AI Picture](https://ideogram.ai/)                   
                                                                                                  
