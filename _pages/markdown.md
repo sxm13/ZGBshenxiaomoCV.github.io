@@ -111,31 +111,20 @@ redirect_from:
                                          
 ## Study           
 * Machine learning
-  * [GNN-1](https://distill.pub/2021/gnn-intro/)/[GCN-2](https://towardsdatascience.com/building-a-graph-convolutional-network-for-molecular-property-prediction-978b0ae10ec4)/[paper](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00018h)                                            
-  * [MLOps](https://github.com/visenger/awesome-mlops)
-  * [understanding deep learning](https://udlbook.github.io/udlbook/)
-  * [DGL](https://docs.dgl.ai/guide_cn/graph-feature.html)                                                                 
+  * [GNN-1](https://distill.pub/2021/gnn-intro/)/[GCN-2](https://towardsdatascience.com/building-a-graph-convolutional-network-for-molecular-property-prediction-978b0ae10ec4)/[paper](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00018h)                                                         
   * [porousAI](https://github.com/SimonEnsemble/porous-material-AI-gym?tab=readme-ov-file#construct-your-own-crystal-structures)                                                                  
 * python             
   * [Figure](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)  
-  * [cheet](https://github.com/matplotlib/cheatsheets)
+  * [pandas](https://github.com/matplotlib/cheatsheets)
   * [ODE](https://ulissigroup.cheme.cmu.edu/F22-06-325/intro.html)                                             
-* DFT                
-  * [cp2k quick start](https://www.cnblogs.com/Shine-JK/p/10988556.html)               
+* DFT                         
   * [cp2k google group](https://groups.google.com/g/cp2k)
-  * [VASP-wiki](https://www.vasp.at/wiki/index.php/Category:VASP6)                                        
-  * [Gaussian](https://expchem3.com/)                           
+  * [VASP-wiki](https://www.vasp.at/wiki/index.php/Category:VASP6)                                                          
   * [GaussianError](https://docs.alliancecan.ca/wiki/Gaussian_error_messages)
-  * [Verification of the precision of DFT implementations](https://acwf-verification.materialscloud.org/)
-  * [Quantum Chemistry](https://simons.hec.utah.edu/NewUndergradBook/TableofContents.html)                     
-* [symmetry](http://xrayweb.chem.ou.edu/notes/symmetry.html#crystal)                                  
-* [LaTeX](https://www.tablesgenerator.com/latex_tables)and[overleaf](https://www.overleaf.com/project#)        
-* [excelbycode](https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439)
+  * [Verification of the precision of DFT implementations](https://acwf-verification.materialscloud.org/)                   
+* [Python in Excel](https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439)
 * matlab
   * [GUI](https://matlabacademy.mathworks.com/kr/details/app-building-onramp/orab)
-* [gnuplot](http://lowrank.net/gnuplot/index-e.html)                                                           
-* [New bing](https://www.bing.com/search?form=MY0291&OCID=MY0291&q=Bing+AI&showconv=1)                         
-* [Chatgpt](https://chat.openai.com/)
 * Math
   * [Numerical Analysis](https://ocw.mit.edu/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/pages/calendar/)      
 * Linux                                  
