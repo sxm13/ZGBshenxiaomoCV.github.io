@@ -112,7 +112,8 @@ redirect_from:
 ## Study           
 * Machine learning
   * [GNN-1](https://distill.pub/2021/gnn-intro/)/[GCN-2](https://towardsdatascience.com/building-a-graph-convolutional-network-for-molecular-property-prediction-978b0ae10ec4)/[paper](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00018h)                                                         
-  * [porousAI](https://github.com/SimonEnsemble/porous-material-AI-gym?tab=readme-ov-file#construct-your-own-crystal-structures)                                                                  
+  * [porousAI](https://github.com/SimonEnsemble/porous-material-AI-gym?tab=readme-ov-file#construct-your-own-crystal-structures)                                               
+  * [THE NEURAL NETWORK ZOO](https://www.asimovinstitute.org/neural-network-zoo/?fbclid=IwAR0YAuNBb5gJNJyemPmaDeO1esIufbgZ9gynGzFO8csWdhFdN4w-KhFtt4k)                                                                    
 * python             
   * [Figure](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)  
   * [pandas](https://github.com/matplotlib/cheatsheets)
