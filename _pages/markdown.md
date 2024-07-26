@@ -17,7 +17,8 @@ redirect_from:
   * [RASPA3](https://github.com/iRASPA/raspa3)                                  
   * [RASPA2 Tools](https://github.com/haoyuanchen/RASPA-tools/tree/master)                             
 * MD                                                         
-  * [Lammps-interface](https://github.com/peteboyd/lammps_interface/)                  
+  * [Lammps-interface](https://github.com/peteboyd/lammps_interface/)
+  * [Lammps-gui](https://download.lammps.org/testing/)                   
   * [packmol](https://m3g.github.io/packmol/)        
 * DFT
   * [cp2k-editor](https://github.com/avishart/CP2K_Editor/)
