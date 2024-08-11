@@ -41,8 +41,8 @@ Service and leadership
   * Public                                    
     *  [Xe/Kr separation project](https://github.com/sxm13/Xe-Kr-Separation-Project)                               
     *  [GWP project](https://github.com/sxm13/GWP-project) and [APP](https://gwp-web-mtap-pnu.streamlit.app/)      
-    *  [PACMAN-Charge Predicter](https://github.com/mtap-research/PACMAN-charge) and [APP](https://pacman-charge-mtap.streamlit.app/)                                                     
-  * Private                                                           
-    *  [H2-COF-functionalization](https://github.com/sxm13/H2-COF-functionalization)                               
+    *  [PACMAN-Charge](https://github.com/mtap-research/PACMAN-charge) and [APP](https://pacman-charge-mtap.streamlit.app/)
+    *  [H2-COF-functionalization](https://github.com/sxm13/H2-COF-functionalization)                                        
+  * Private                                                                                     
     *  [CoRE MOF Database 2024](https://github.com/sxm13/CoRE-MOF-2024)                                            
       
