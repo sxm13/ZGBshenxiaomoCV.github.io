@@ -89,7 +89,8 @@ redirect_from:
 * [NIST Adsorption Data](https://adsorption.nist.gov/index.php#home)    
 * [Adsorption dataset](https://datahub.hymarc.org/dataset)                                                     
 * [Cut-data](https://apps.automeris.io/wpd/)                                                   
-* [omega](http://www.ap1700.com/ShowWord33.htm)     
+* [omega](http://www.ap1700.com/ShowWord33.htm)
+* [Acentric_Factors](https://www.kaylaiacovino.com/Petrology_Tools/Critical_Constants_and_Acentric_Factors.htm)                      
 * Force Field
   * [NISTFF](https://www.ctcms.nist.gov/potentials/)
   * [SPaSM](https://spasmmini.weebly.com/potentials.html)
@@ -114,7 +115,8 @@ redirect_from:
 * Machine learning
   * [GNN-1](https://distill.pub/2021/gnn-intro/)/[GCN-2](https://towardsdatascience.com/building-a-graph-convolutional-network-for-molecular-property-prediction-978b0ae10ec4)/[paper](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00018h)                                                         
   * [porousAI](https://github.com/SimonEnsemble/porous-material-AI-gym?tab=readme-ov-file#construct-your-own-crystal-structures)                                               
-  * [THE NEURAL NETWORK ZOO](https://www.asimovinstitute.org/neural-network-zoo/?fbclid=IwAR0YAuNBb5gJNJyemPmaDeO1esIufbgZ9gynGzFO8csWdhFdN4w-KhFtt4k)                                                                    
+  * [THE NEURAL NETWORK ZOO](https://www.asimovinstitute.org/neural-network-zoo/?fbclid=IwAR0YAuNBb5gJNJyemPmaDeO1esIufbgZ9gynGzFO8csWdhFdN4w-KhFtt4k)
+    
 * python             
   * [Figure](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)  
   * [pandas](https://github.com/matplotlib/cheatsheets)
