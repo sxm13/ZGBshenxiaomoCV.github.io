@@ -44,5 +44,5 @@ Service and leadership
     *  [PACMAN-Charge](https://github.com/mtap-research/PACMAN-charge) and [APP](https://pacman-charge-mtap.streamlit.app/)
     *  [H2-COF-functionalization](https://github.com/sxm13/H2-COF-functionalization)                                        
   * Private                                                                                     
-    *  [CoRE MOF Database 2024](https://github.com/sxm13/CoRE-MOF-2024)                                            
+    *  [CoRE MOF Database 2024](https://github.com/sxm13/CoRE-MOF-2024) and [app](https://core-mof-2024-app-pzyfgryb3ac9gjxpuhpvapp.streamlit.app/)                                 
       
