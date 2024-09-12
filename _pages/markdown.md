@@ -25,7 +25,8 @@ redirect_from:
   * [PSA](https://github.com/PEESEgroup/PSA)                  
 * Poster by Markdown
   * [posterdown](https://github.com/brentthorne/posterdown?tab=readme-ov-file#getting-started)
-  * [docposter](https://github.com/bbucior/docposter/tree/main?tab=readme-ov-file)             
+  * [docposter](https://github.com/bbucior/docposter/tree/main?tab=readme-ov-file)
+* [Book download](https://libgen.is/)                          
 * Geometric Features 4MOFs                          
   * [zeo++](http://www.zeoplusplus.org/)                          
   * [pygaps](https://pygaps.readthedocs.io/en/master/)                  
