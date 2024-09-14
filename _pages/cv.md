@@ -33,7 +33,7 @@ Service and leadership
 [Molecular Thermodynamics and Advanced Processes Laboratory](https://sites.google.com/view/mtap-lab)                                   
 ### Software                         
 
-* [SESAMI-APP](https://sesami-web.org/)
+* [SESAMI-APP](https://sesami-web.org/) and [pipy](https://pypi.org/project/SESAMI/)                                          
 * [CoRE MOF Database 2019](https://sites.google.com/view/mtap-lab/software/core-mof-database?authuser=0)           
 * [BreakLab]()
   
@@ -41,7 +41,7 @@ Service and leadership
   * Public                                    
     *  [Xe/Kr separation project](https://github.com/sxm13/Xe-Kr-Separation-Project)                               
     *  [GWP project](https://github.com/sxm13/GWP-project) and [APP](https://gwp-web-mtap-pnu.streamlit.app/)      
-    *  [PACMAN-Charge](https://github.com/mtap-research/PACMAN-charge) and [APP](https://pacman-charge-mtap.streamlit.app/)
+    *  [PACMAN-Charge](https://github.com/mtap-research/PACMAN-charge) and [APP](https://pacman-charge-mtap.streamlit.app/) and [pipy](https://pypi.org/project/PACMAN-charge/)               
     *  [H2-COF-functionalization](https://github.com/sxm13/H2-COF-functionalization)                                        
   * Private                                                                                     
     *  [CoRE MOF Database 2024](https://github.com/sxm13/CoRE-MOF-2024) and [APP](https://core-mof-2024-app-pzyfgryb3ac9gjxpuhpvapp.streamlit.app/)                                 
