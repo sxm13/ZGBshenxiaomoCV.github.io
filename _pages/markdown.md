@@ -18,7 +18,9 @@ redirect_from:
 * DFT Tools
   * [cp2k-editor](https://github.com/avishart/CP2K_Editor/)
   * [qeinput](https://www.materialscloud.org/work/tools/qeinputgenerator)
-  * [vasptool](https://theory.cm.utexas.edu/vtsttools/index.html)                             
+  * [vasptool](https://theory.cm.utexas.edu/vtsttools/index.html)
+  * [XPS](https://galore.readthedocs.io/en/latest/readme.html#documentation)
+  * [Raman](https://github.com/raman-sc/VASP)                               
 * Process simulation
   * [RUPTURA](https://github.com/iRASPA/RUPTURA)                       
   * [pyAPEP](https://sebygaa.github.io/pyAPEP/build/html/index.html)
