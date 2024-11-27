@@ -120,7 +120,8 @@ redirect_from:
 * Math                        
   * [Numerical Analysis](https://ocw.mit.edu/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/pages/calendar/)      
 * Linux                                    
-  * [slurm](extension://bfdogplmndidlpjfhoijckpakkdjkkil/pdf/viewer.html?file=http%3A%2F%2Fhmli.ustc.edu.cn%2Fdoc%2Fuserguide%2Fslurm-userguide.pdf)
+  * [slurm](extension://bfdogplmndidlpjfhoijckpakkdjkkil/pdf/viewer.html?file=http%3A%2F%2Fhmli.ustc.edu.cn%2Fdoc%2Fuserguide%2Fslurm-userguide.pdf)                           
+* [Diffusion in nanoporous materials with special consideration of the measurement of determining parameters (IUPAC Technical Report)](https://www.degruyter.com/document/doi/10.1515/pac-2023-1126/html)                                    
 
 
                                                               
