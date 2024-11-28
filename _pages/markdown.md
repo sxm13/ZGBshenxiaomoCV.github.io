@@ -10,7 +10,8 @@ redirect_from:
 ## Software                                             
 * Adsorption software
   * [RASPA2](https://github.com/iRASPA/RASPA2)
-  * [RASPA3](https://github.com/iRASPA/raspa3)                                                            
+  * [RASPA3](https://github.com/iRASPA/raspa3)
+  * [gRASPA](https://github.com/snurr-group/gRASPA)                                                            
 * Molecular Dynamics 4 MOFs                                                         
   * [Lammps-interface](https://github.com/peteboyd/lammps_interface/)
   * [Lammps-gui](https://download.lammps.org/testing/)                   
@@ -64,8 +65,11 @@ redirect_from:
   * [Elsevier, Xml](https://dev.elsevier.com/)
   * [RSC, Html](https://developer.rsc.org/create-an-api-key)
   * [ACS, Xml](https://www.acs.org/events/all-events/rapid-delivery-of-api-enables-accelerated-ind-application-challenges-and-solutions.html)     
-* [FindDiffusivity](https://openpnm.org/examples/applications/effective_diffusivity_and_tortuosity.html)                                  
-* [Cut-data](https://apps.automeris.io/wpd/)                                                  
+* [FindDiffusivity](https://openpnm.org/examples/applications/effective_diffusivity_and_tortuosity.html)        * [Hugging Face](https://huggingface.co/)
+* [Gradio](https://www.gradio.app/)
+* [Nginx](https://nginx.org/)                                   
+* [Cut-data](https://apps.automeris.io/wpd/)
+                                                         
 ## Database         
 * MOF database
   * [CoRE MOF](https://zenodo.org/record/3677685#.X8uDkrniuUl)                          
