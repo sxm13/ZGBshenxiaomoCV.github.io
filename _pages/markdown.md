@@ -65,7 +65,9 @@ redirect_from:
   * [Elsevier, Xml](https://dev.elsevier.com/)
   * [RSC, Html](https://developer.rsc.org/create-an-api-key)
   * [ACS, Xml](https://www.acs.org/events/all-events/rapid-delivery-of-api-enables-accelerated-ind-application-challenges-and-solutions.html)     
-* [FindDiffusivity](https://openpnm.org/examples/applications/effective_diffusivity_and_tortuosity.html)        * [Hugging Face](https://huggingface.co/)
+* [FindDiffusivity](https://openpnm.org/examples/applications/effective_diffusivity_and_tortuosity.html)   
+                                                       
+* [Hugging Face](https://huggingface.co/)                                                         
 * [Gradio](https://www.gradio.app/)
 * [Nginx](https://nginx.org/)                                   
 * [Cut-data](https://apps.automeris.io/wpd/)
