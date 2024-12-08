@@ -71,6 +71,7 @@ redirect_from:
 * [Gradio](https://www.gradio.app/)
 * [Nginx](https://nginx.org/)                                   
 * [Cut-data](https://apps.automeris.io/wpd/)
+* [streamlit-extras](https://arnaudmiribel.github.io/streamlit-extras/)                       
                                                          
 ## Database         
 * MOF database
